@@ -25,6 +25,6 @@
 [submodule "Packages/DimLVEvent"]
 	path = Packages/DimLVEvent
 	url = M:\\Brand\\Git\\DimLVEvent.git
-[submodule "CSPP_DIM"]
-	path = CSPP_DIM
+[submodule "Packages/CSPP_DIM"]
+	path = Packages/CSPP_DIM
 	url = M:\\Brand\\Git\\CSPP_DIM.git
