@@ -787,8 +787,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="libDimWrapper.so" Type="Document" URL="../../../C/GPL/Projects/DimLVEvent/bin/libDimWrapper.so"/>
-			<Item Name="libDimWrapperSPL.dll" Type="Document" URL="../../../C/GPL/Projects/DimLVEvent/bin/libDimWrapperSPL.dll"/>
+			<Item Name="libDimWrapper.dll" Type="Document" URL="../Packages/DimLVEvent/bin/libDimWrapper.dll"/>
 			<Item Name="logosbrw.dll" Type="Document" URL="/&lt;resource&gt;/logosbrw.dll"/>
 			<Item Name="Loopback.lvclass" Type="LVClass" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/NI/Actors/Linked Network Actor/Loopback/Loopback.lvclass"/>
 			<Item Name="nitaglv.dll" Type="Document" URL="nitaglv.dll">
