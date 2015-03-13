@@ -1,0 +1,30 @@
+[submodule "Packages/CSPP_Core"]
+	path = Packages/CSPP_Core
+	url = https://github.com/HB-GSI/CSPP_Core
+[submodule "Packages/CSPP_DeviceBase"]
+	path = Packages/CSPP_DeviceBase
+	url = https://github.com/HB-GSI/CSPP_DeviceBase
+[submodule "Packages/CSPP_IVI"]
+	path = Packages/CSPP_IVI
+	url = https://github.com/HB-GSI/CSPP_IVI
+[submodule "Packages/CSPP_DSC"]
+	path = Packages/CSPP_DSC
+	url = https://github.com/HB-GSI/CSPP_DSC
+[submodule "Packages/CSPP_Examples"]
+	path = Packages/CSPP_Examples
+	url = https://github.com/HB-GSI/CSPP_Examples
+[submodule "Packages/CSPP_Syslog"]
+	path = Packages/CSPP_Syslog
+	url = https://github.com/HB-GSI/CSPP_Syslog
+[submodule "Packages/CSPP_LNA"]
+	path = Packages/CSPP_LNA
+	url = https://github.com/HB-GSI/CSPP_LNA.git
+[submodule "Packages/CSPP_RT"]
+	path = Packages/CSPP_RT
+	url = https://github.com/HB-GSI/CSPP_RT.git
+[submodule "Packages/DimLVEvent"]
+	path = Packages/DimLVEvent
+	url = M:\\Brand\\Git\\DimLVEvent.git
+[submodule "CSPP_DIM"]
+	path = CSPP_DIM
+	url = M:\\Brand\\Git\\CSPP_DIM.git
