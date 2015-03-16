@@ -24,7 +24,7 @@
 	url = https://github.com/HB-GSI/CSPP_RT.git
 [submodule "Packages/DimLVEvent"]
 	path = Packages/DimLVEvent
-	url = M:\\Brand\\Git\\DimLVEvent.git
+	url = https://github.com/HB-GSI/DimLVEvent.git
 [submodule "Packages/CSPP_DIM"]
 	path = Packages/CSPP_DIM
-	url = M:\\Brand\\Git\\CSPP_DIM.git
+	url = https://github.com/HB-GSI/CSPP_DIM.git
