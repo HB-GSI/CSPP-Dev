@@ -307,6 +307,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				</Item>
 				<Item Name="CS++CoreContent.vi" Type="VI" URL="../Packages/CSPP_Core/CS++CoreContent.vi"/>
 				<Item Name="CS++CoreGUIContent.vi" Type="VI" URL="../Packages/CSPP_Core/CS++CoreGUIContent.vi"/>
+				<Item Name="CS++PreconfiguredContent.vi" Type="VI" URL="../Packages/CSPP_Core/CS++PreconfiguredContent.vi"/>
 				<Item Name="CS++Core-errors.txt" Type="Document" URL="../Packages/CSPP_Core/CS++Core-errors.txt"/>
 				<Item Name="CS++Core.ini" Type="Document" URL="../Packages/CSPP_Core/CS++Core.ini"/>
 			</Item>
@@ -391,7 +392,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		</Item>
 		<Item Name="User" Type="Folder">
 			<Item Name="CS++HBContent.vi" Type="VI" URL="../CS++HBContent.vi"/>
-			<Item Name="CS++UserContent.vi" Type="VI" URL="../Packages/CSPP_Core/CS++UserContent.vi"/>
 			<Item Name="Linked Network Actor Test.vi" Type="VI" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/NI/Actors/Linked Network Actor/Linked Network Actor Test.vi"/>
 			<Item Name="Syslog Collector Example.vi" Type="VI" URL="/&lt;vilib&gt;/NI/syslog/examples/Syslog Collector Example.vi"/>
 			<Item Name="Test-P-R.vi" Type="VI" URL="../Test/Test-P-R.vi"/>
