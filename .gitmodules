@@ -28,3 +28,6 @@
 [submodule "Packages/CSPP_DIM"]
 	path = Packages/CSPP_DIM
 	url = https://github.com/HB-GSI/CSPP_DIM.git
+[submodule "Packages/CSPP_OPCUA"]
+	path = Packages/CSPP_OPCUA
+	url = https://github.com/HB-GSI/CSPP_OPCUA.git
