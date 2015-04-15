@@ -393,6 +393,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="Examples" Type="Folder">
 					<Item Name="OPC-UA-Item-Browser.vi" Type="VI" URL="../Packages/CSPP_OPCUA/Example/OPC-UA-Item-Browser.vi"/>
 				</Item>
+				<Item Name="CS++OPCUA.ini" Type="Document" URL="../Packages/CSPP_OPCUA/CS++OPCUA.ini"/>
 				<Item Name="CS++OPCUAInterface.lvlib" Type="Library" URL="../Packages/CSPP_OPCUA/CS++OPCUAInterface/CS++OPCUAInterface.lvlib"/>
 			</Item>
 		</Item>
