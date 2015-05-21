@@ -31,3 +31,11 @@
 [submodule "Packages/CSPP_OPCUA"]
 	path = Packages/CSPP_OPCUA
 	url = https://github.com/HB-GSI/CSPP_OPCUA.git
+[submodule "instr.lib/KIT-QV"]
+	path = instr.lib/KIT-QV
+	url = https://github.com/HB-GSI/KIT-QV.git
+	branch = HBDev
+[submodule "Packages/KIT-QVA"]
+	path = Packages/KIT-QVA
+	url = https://github.com/HB-GSI/KIT-QVA.git
+	branch = HBDev
