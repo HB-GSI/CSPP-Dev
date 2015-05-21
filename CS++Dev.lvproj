@@ -271,7 +271,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="EUPL v.1.1 - Lizenz.pdf" Type="Document" URL="../Packages/CSPP_Core/EUPL v.1.1 - Lizenz.pdf"/>
 			<Item Name="EUPL v.1.1 - Lizenz.rtf" Type="Document" URL="../Packages/CSPP_Core/EUPL v.1.1 - Lizenz.rtf"/>
 		</Item>
-		<Item Name="instr.lib" Type="Folder"/>
+		<Item Name="instr.lib" Type="Folder">
+			<Item Name="KIT QV.lvlib" Type="Library" URL="../instr.lib/KIT-QV/KIT QV.lvlib"/>
+		</Item>
 		<Item Name="lib.lib" Type="Folder">
 			<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
 			<Item Name="DimIndicators.lvlib" Type="Library" URL="../Packages/DimLVEvent/DimIndicators/DimIndicators.lvlib"/>
@@ -397,6 +399,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="CS++OPCUA.ini" Type="Document" URL="../Packages/CSPP_OPCUA/CS++OPCUA.ini"/>
 				<Item Name="CS++OPCUAInterface.lvlib" Type="Library" URL="../Packages/CSPP_OPCUA/CS++OPCUAInterface/CS++OPCUAInterface.lvlib"/>
 			</Item>
+			<Item Name="KIT-QVA" Type="Folder">
+				<Item Name="KIT-QVA.lvlib" Type="Library" URL="../Packages/KIT-QVA/KIT-QVA/KIT-QVA.lvlib"/>
+			</Item>
 		</Item>
 		<Item Name="User" Type="Folder">
 			<Item Name="CS++HBContent.vi" Type="VI" URL="../CS++HBContent.vi"/>
@@ -455,6 +460,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="Get LV Class Default Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
+				<Item Name="Get Project Library Version.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/Get Project Library Version.vi"/>
 				<Item Name="Get String Text Bounds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Get String Text Bounds.vi"/>
 				<Item Name="Get Text Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Get Text Rect.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
@@ -832,7 +838,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="Bld_previewCacheID" Type="Str">{F3DA460C-BFFF-460B-ABEE-0F487BB46015}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">14</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">CSPP.exe</Property>
