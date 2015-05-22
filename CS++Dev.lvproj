@@ -313,6 +313,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="CS++Core-errors.txt" Type="Document" URL="../Packages/CSPP_Core/CS++Core-errors.txt"/>
 				<Item Name="CS++Core.ini" Type="Document" URL="../Packages/CSPP_Core/CS++Core.ini"/>
 			</Item>
+			<Item Name="CSPP_ObjectManager" Type="Folder">
+				<Item Name="CS++ObjectManager.lvlib" Type="Library" URL="../Packages/CSPP_ObjectManager/CS++ObjectManager.lvlib"/>
+			</Item>
 			<Item Name="CSPP_DeviceBase" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
 				<Item Name="Documentation" Type="Folder">
