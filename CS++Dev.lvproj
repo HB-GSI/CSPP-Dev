@@ -415,7 +415,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 		<Item Name="CS++.ico" Type="Document" URL="../Docs/CS++.ico"/>
 		<Item Name="CS++Dev.ini" Type="Document" URL="../CS++Dev.ini"/>
 		<Item Name="CS++Main.vi" Type="VI" URL="../CS++Main.vi"/>
-		<Item Name="CS++ObjectManager.rtm" Type="Document" URL="../Packages/CSPP_ObjectManager/CS++ObjectManager/CS++ObjectManager.rtm"/>
 		<Item Name="README.txt" Type="Document" URL="../README.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
