@@ -293,9 +293,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 					<Property Name="NI.SortType" Type="Int">3</Property>
 					<Item Name="CS++StartActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++StartActor/CS++StartActor.lvlib"/>
 					<Item Name="CS++BaseActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++BaseActor/CS++BaseActor.lvlib"/>
+					<Item Name="CS++PVProxy.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++PVProxy/CS++PVProxy.lvlib"/>
 					<Item Name="CS++PVMonitor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++PVMonitor/CS++PVMonitor.lvlib"/>
 					<Item Name="CS++SVMonitor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++SVMonitor/CS++SVMonitor.lvlib"/>
-					<Item Name="CS++ControllerActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++ControllerActor/CS++ControllerActor.lvlib"/>
 					<Item Name="CS++DeviceActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++DeviceActor/CS++DeviceActor.lvlib"/>
 					<Item Name="CS++GUIActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++GUIActor/CS++GUIActor.lvlib"/>
 					<Item Name="CS++DeviceGUIActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++DeviceGUIActor/CS++DeviceGUIActor.lvlib"/>
