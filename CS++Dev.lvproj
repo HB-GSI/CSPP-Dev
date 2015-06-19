@@ -405,6 +405,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			</Item>
 			<Item Name="KIT-QVA" Type="Folder">
 				<Item Name="KIT-QVA.lvlib" Type="Library" URL="../Packages/KIT-QVA/KIT-QVA/KIT-QVA.lvlib"/>
+				<Item Name="KIT-QVG.lvlib" Type="Library" URL="../Packages/KIT-QVA/KIT-QVG/KIT-QVG.lvlib"/>
 			</Item>
 		</Item>
 		<Item Name="User" Type="Folder">
