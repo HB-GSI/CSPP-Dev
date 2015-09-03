@@ -623,7 +623,6 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="App_INI_itemID" Type="Ref">/My Computer/CS++Dev.ini</Property>
 				<Property Name="App_serverConfig.httpPort" Type="Int">8002</Property>
 				<Property Name="App_waitDebugging" Type="Bool">true</Property>
-				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{D49593D3-88B1-4450-9C1E-F9C2CE4AE99A}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">Demo Build Specification</Property>
 				<Property Name="Bld_buildSpecName" Type="Str">CSPP Application</Property>
@@ -633,9 +632,8 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="Bld_previewCacheID" Type="Str">{F3DA460C-BFFF-460B-ABEE-0F487BB46015}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Bld_version.minor" Type="Int">1</Property>
+				<Property Name="Bld_version.minor" Type="Int">2</Property>
 				<Property Name="Destination[0].destName" Type="Str">CSPP.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/CSPP/CSPP Application/CSPP.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -645,7 +643,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/CS++.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{801FEE45-7BDD-486B-B8FC-35E4FCF1CD70}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{B3E3EEDC-0D53-487E-9662-4805E627C40E}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Packages/CSPP_Core/Actors/CS++StartActor.lvlib/Launch CS++StartActor.vi</Property>
