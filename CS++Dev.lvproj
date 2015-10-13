@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="15008000">
-	<Property Name="CCSymbols" Type="Str">CSPP_BuildContent,HB;</Property>
+	<Property Name="CCSymbols" Type="Str">CSPP_BuildContent,HB;DSCGetVarList,PSP;</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">This LabVIEW project "CS++.lvproj" is used to develop the successor of the CS Framework.
 
@@ -121,6 +121,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="CS++FgenGui.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++FgenGui/CS++FgenGui.lvlib"/>
 				<Item Name="CS++Scope.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++Scope/CS++Scope.lvlib"/>
 				<Item Name="CS++ScopeGui.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++ScopeGui/CS++ScopeGui.lvlib"/>
+				<Item Name="CS++MCS.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++MCS/CS++MCS.lvlib"/>
 			</Item>
 			<Item Name="CSPP_IVI" Type="Folder">
 				<Item Name="Documentation" Type="Folder">
@@ -153,6 +154,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="CS++DSCManager.lvlib" Type="Library" URL="../Packages/CSPP_DSC/Actors/CS++DSCManager/CS++DSCManager.lvlib"/>
 				<Item Name="CS++DSCConnection.lvlib" Type="Library" URL="../Packages/CSPP_DSC/Classes/DSCConnection/CS++DSCConnection.lvlib"/>
 				<Item Name="Test DSCConnection.vi" Type="VI" URL="../Packages/CSPP_DSC/Test DSCConnection.vi"/>
+				<Item Name="DSC Remote SV Access.lvlib" Type="Library" URL="../Packages/CSPP_DSC/Contributed/DSC Remote SV Access.lvlib"/>
 			</Item>
 			<Item Name="CSPP_LNA" Type="Folder">
 				<Item Name="CS++LNA.lvlib" Type="Library" URL="../Packages/CSPP_LNA/CS++LNA.lvlib"/>
@@ -216,6 +218,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Check Special Tags.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Check Special Tags.vi"/>
+				<Item Name="Check Whether Timeouted.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/tagapi/internal/Check Whether Timeouted.vi"/>
 				<Item Name="citadel_ConvertDatabasePathToName.vi" Type="VI" URL="/&lt;vilib&gt;/citadel/citadel_ConvertDatabasePathToName.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
 				<Item Name="Close Registry Key.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Close Registry Key.vi"/>
@@ -230,6 +233,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="dscCommn.dll" Type="Document" URL="/&lt;vilib&gt;/lvdsc/common/dscCommn.dll"/>
 				<Item Name="dscProc.dll" Type="Document" URL="/&lt;vilib&gt;/lvdsc/process/dscProc.dll"/>
 				<Item Name="ERR_ErrorClusterFromErrorCode.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/common/error/ERR_ErrorClusterFromErrorCode.vi"/>
+				<Item Name="ERR_GetErrText.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/common/error/ERR_GetErrText.vi"/>
 				<Item Name="ERR_MergeErrors.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/common/error/ERR_MergeErrors.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
@@ -502,6 +506,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="PRC_ROSProc.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/process/internal/PRC_ROSProc.vi"/>
 				<Item Name="PRC_SVsToLib.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/process/internal/PRC_SVsToLib.vi"/>
 				<Item Name="PRC_Undeploy.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/process/internal/PRC_Undeploy.vi"/>
+				<Item Name="PSP Enumerate Network Items.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/tagapi/internal/PSP Enumerate Network Items.vi"/>
 				<Item Name="PTH_ConstructCustomURL.vi" Type="VI" URL="/&lt;vilib&gt;/lvdsc/common/path/PTH_ConstructCustomURL.vi"/>
 				<Item Name="Read Registry Value DWORD.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value DWORD.vi"/>
 				<Item Name="Read Registry Value Simple STR.vi" Type="VI" URL="/&lt;vilib&gt;/registry/registry.llb/Read Registry Value Simple STR.vi"/>
@@ -593,6 +598,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lksock.dll" Type="Document" URL="lksock.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
 			<Item Name="logosbrw.dll" Type="Document" URL="/&lt;resource&gt;/logosbrw.dll"/>
 			<Item Name="Loopback.lvclass" Type="LVClass" URL="../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/NI/Actors/Linked Network Actor/Loopback/Loopback.lvclass"/>
 			<Item Name="ni_opcua_base.dll" Type="Document" URL="ni_opcua_base.dll">
@@ -609,7 +617,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="SCT Get Types.vi" Type="VI" URL="/&lt;resource&gt;/dialog/variable/SCT Get Types.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="CSPP Application" Type="EXE">
+			<Item Name="CSPP DIM Application" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{BBEEE137-3ECF-4992-9BFB-27E498DF6B70}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{D076C128-BC42-4A9B-B136-D29334111D9E}</Property>
@@ -619,25 +627,25 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="App_waitDebugging" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{D49593D3-88B1-4450-9C1E-F9C2CE4AE99A}</Property>
 				<Property Name="Bld_buildSpecDescription" Type="Str">Demo Build Specification</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">CSPP Application</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">CSPP DIM Application</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/CSPP/CSPP Application</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/CSPP/CSPP DIM Application</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F3DA460C-BFFF-460B-ABEE-0F487BB46015}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Bld_version.minor" Type="Int">2</Property>
-				<Property Name="Destination[0].destName" Type="Str">CSPP.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/CSPP/CSPP Application/CSPP.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">CSPP-DIM.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/CSPP/CSPP DIM Application/CSPP-DIM.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/CSPP/CSPP Application/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/CSPP/CSPP DIM Application/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_cmdLineArgs" Type="Bool">true</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/CS++.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F6C46C43-BFBF-457D-AF1D-928D391B3FD1}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{5374EE65-B6AA-4698-8312-2285383DAF96}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Packages/CSPP_Core/Actors/CS++StartActor.lvlib/Launch CS++StartActor.vi</Property>
@@ -682,11 +690,11 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Property Name="SourceCount" Type="Int">13</Property>
 				<Property Name="TgtF_companyName" Type="Str">GSI Helmholtzzentrum für Schwerionenforschung GmbH</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">CSPP Demo Application</Property>
-				<Property Name="TgtF_internalName" Type="Str">CSPP Application</Property>
+				<Property Name="TgtF_internalName" Type="Str">CSPP DIM Application</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2013 GSI Helmholtzzentrum für Schwerionenforschung GmbH</Property>
-				<Property Name="TgtF_productName" Type="Str">CSPP Application</Property>
+				<Property Name="TgtF_productName" Type="Str">CSPP DIM Application</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{E09FD4F5-C689-468F-9DD7-98AAD66B72B2}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">CSPP.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">CSPP-DIM.exe</Property>
 			</Item>
 		</Item>
 	</Item>
