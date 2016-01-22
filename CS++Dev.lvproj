@@ -82,6 +82,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 					<Item Name="CS++BaseActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++BaseActor/CS++BaseActor.lvlib"/>
 					<Item Name="CS++PVProxy.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++PVProxy/CS++PVProxy.lvlib"/>
 					<Item Name="CS++PVMonitor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++PVMonitor/CS++PVMonitor.lvlib"/>
+					<Item Name="CS++DSMonitor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++DSMonitor/CS++DSMonitor.lvlib"/>
 					<Item Name="CS++SVMonitor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++SVMonitor/CS++SVMonitor.lvlib"/>
 					<Item Name="CS++DeviceActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++DeviceActor/CS++DeviceActor.lvlib"/>
 					<Item Name="CS++GUIActor.lvlib" Type="Library" URL="../Packages/CSPP_Core/Actors/CS++GUIActor/CS++GUIActor.lvlib"/>
@@ -90,6 +91,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="Classes" Type="Folder">
 					<Item Name="CS++BaseClasses.lvlib" Type="Library" URL="../Packages/CSPP_Core/Classes/CS++BaseClasses/CS++BaseClasses.lvlib"/>
 					<Item Name="CS++ProcessVariables.lvlib" Type="Library" URL="../Packages/CSPP_Core/Classes/CS++ProcessVariables/CS++ProcessVariables.lvlib"/>
+					<Item Name="CS++SharedVariables.lvlib" Type="Library" URL="../Packages/CSPP_Core/Classes/CS++ProcessVariables/SVConnection/CS++SharedVariables.lvlib"/>
 				</Item>
 				<Item Name="Libraries" Type="Folder">
 					<Item Name="CS++Base.lvlib" Type="Library" URL="../Packages/CSPP_Core/Libraries/Base/CS++Base.lvlib"/>
@@ -122,6 +124,8 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="CS++Scope.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++Scope/CS++Scope.lvlib"/>
 				<Item Name="CS++ScopeGui.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++ScopeGui/CS++ScopeGui.lvlib"/>
 				<Item Name="CS++MCS.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++MCS/CS++MCS.lvlib"/>
+				<Item Name="CS++Motor.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++Motor/CS++Motor.lvlib"/>
+				<Item Name="CS++MotorGui.lvlib" Type="Library" URL="../Packages/CSPP_DeviceBase/CS++MotorGui/CS++MotorGui.lvlib"/>
 			</Item>
 			<Item Name="CSPP_IVI" Type="Folder">
 				<Item Name="Documentation" Type="Folder">
