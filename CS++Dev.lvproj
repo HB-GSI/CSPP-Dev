@@ -560,6 +560,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="Time-Delayed Send Message Core.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message Core.vi"/>
 				<Item Name="Time-Delayed Send Message.vi" Type="VI" URL="/&lt;vilib&gt;/ActorFramework/Time-Delayed Send Message/Time-Delayed Send Message.vi"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
 				<Item Name="util_Buffer Strings.vi" Type="VI" URL="/&lt;vilib&gt;/NI/syslog/examples/util/util_Buffer Strings.vi"/>
 				<Item Name="util_My IP Address.vi" Type="VI" URL="/&lt;vilib&gt;/NI/syslog/examples/util/util_My IP Address.vi"/>
 				<Item Name="Validate Semaphore Size.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Validate Semaphore Size.vi"/>
