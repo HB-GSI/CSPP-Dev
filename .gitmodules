@@ -35,3 +35,9 @@
 	path = Packages/CSPP_ObjectManager
 	url = https://github.com/HB-GSI/CSPP_ObjectManager.git
 	branch = HBDev
+[submodule "Packages/BNT/BNT_DAQmx"]
+	path = Packages/BNT/BNT_DAQmx
+	url = https://github.com/HB-BNT/BNT_DAQmx.git
+[submodule "Packages/BNT/BNT_DSCXYGraph"]
+	path = Packages/BNT/BNT_DSCXYGraph
+	url = https://github.com/HB-BNT/BNT_DSCXYGraph.git
