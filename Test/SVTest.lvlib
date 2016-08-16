@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
+<Library LVVersion="16008000">
 	<Property Name="Alarm Database Computer" Type="Str">DENBG113</Property>
 	<Property Name="Alarm Database Name" Type="Str">CSPP</Property>
 	<Property Name="Alarm Database Path" Type="Str">c:\user\brand\dsc\cspp</Property>
@@ -25,8 +25,8 @@ Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher
 
 Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind dem Lizenztext zu entnehmen.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;5`4BN"&amp;-@R(YAC\2&lt;OA[`Q,E$B+`A+\QJO,3ID):1GR6-IEN;CI8;4!\QL_!K_QP+&gt;]&lt;-B+7+EA*+#7=;M@`0PQ_RIE8LZ*&amp;VI0&amp;5G@SSP;G_TN+NO@W`@._R`4:[&lt;RR@D^_W(TG/0DEW64*\PRG01BYTDZ*@WQ^D8_P_K`5422`EI`\9M4R\3&gt;T_T:WIP)GJ3A_J55VNK40)E4`)E4`)E$`)A$`)A$`)A&gt;X)H&gt;X)H&gt;X)H.X)D.X)D.X)D\R?ZS%5O=ED*YMF#S;4*"%FH+%I_%E`C34S*B[^+0)EH]33?R%-8*:\%EXA34_*BG"*0YEE]C3@R-&amp;78:,`)]31?JF@A#4S"*`!%(J:5Y!E!Q7,"R-%E-"1U"D?"*`!%(GY6?!*0Y!E]A9&gt;G":\!%XA#4_"B3._6[*JWE?.B'DE?R_.Y()`D97IZ(M@D?"S0YW%Z/2\(YS#=":X*)=A:Z(2QPDA?R]-P/2\(YXA=D_/BK4]B\TP4./UCRW.Y$)`B-4S'BSFE?!S0Y4%]BI&gt;J:8A-D_%R0);(J72Y$)`B-3$'ICQP9T*DI.(*#!Q00`WU7(^+U387,[E/L_J1KA[&lt;[B#J$I@KI;M?JOIBK4:@N;GKT6*NAOK05[&amp;6'.5CKM'NIX:]&lt;KE&lt;[JK[IC[I=_K-/K5/&lt;?A&lt;&gt;^TN&gt;NJON^JM.FKPVVKN6FIM&amp;JL0ZZL.:JJ/JRK'Y@A;_-RV@#(MXUN,\FO^_`(T\-PXZ?8NQ]XD^&gt;88S`OL&lt;]/BL&gt;6X_F`[(\Q&lt;&gt;;[8]\*(4W3P;]9!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*/!!!*Q(C=\&gt;5`4BN"&amp;-@R(YAC\2&lt;OA[`Q,E$B+`A+\QJO,3ID):1GR6-IEN;CI8;4!\QL_!K_QP+&gt;]&lt;-B+7+EA*+#7=;M@`0PQ_RIE8LZ*&amp;VI0&amp;5G@SSP;G_TN+NO@W`@._R`4:[&lt;RR@D^_W(TG/0DEW64*\PRG01BYTDZ*@WQ^D8_P_K`5422`EI`\9M4R\3&gt;T_T:WIP)GJ3A_J55VNK40)E4`)E4`)E$`)A$`)A$`)A&gt;X)H&gt;X)H&gt;X)H.X)D.X)D.X)D\R?ZS%5O=ED*YMF#S;4*"%FH+%I_%E`C34S*B[^+0)EH]33?R%-8*:\%EXA34_*BG"*0YEE]C3@R-&amp;78:,`)]31?JF@A#4S"*`!%(J:5Y!E!Q7,"R-%E-"1U"D?"*`!%(GY6?!*0Y!E]A9&gt;G":\!%XA#4_"B3._6[*JWE?.B'DE?R_.Y()`D97IZ(M@D?"S0YW%Z/2\(YS#=":X*)=A:Z(2QPDA?R]-P/2\(YXA=D_/BK4]B\TP4./UCRW.Y$)`B-4S'BSFE?!S0Y4%]BI&gt;J:8A-D_%R0);(J72Y$)`B-3$'ICQP9T*DI.(*#!Q00`WU7(^+U387,[E/L_J1KA[&lt;[B#J$I@KI;M?JOIBK4:@N;GKT6*NAOK05[&amp;6'.5CKM'NIX:]&lt;KE&lt;[JK[IC[I=_K-/K5/&lt;?A&lt;&gt;^TN&gt;NJON^JM.FKPVVKN6FIM&amp;JL0ZZL.:JJ/JRK'Y@A;_-RV@#(MXUN,\FO^_`(T\-PXZ?8NQ]XD^&gt;88S`OL&lt;]/BL&gt;6X_F`[(\Q&lt;&gt;;[8]\*(4W3P;]9!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI_IconEditor" Type="Str">49 51 48 49 56 48 50 48 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 13 44 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 12 185 0 0 0 0 0 0 0 0 0 0 12 158 0 40 0 0 12 152 0 0 12 0 0 0 0 0 0 32 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 255 102 102 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7 86 73 32 73 99 111 110 100 1 0 2 0 0 0 7 83 86 45 84 101 115 116 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 0
@@ -47,7 +47,7 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
 	<Property Name="OdbcUsername" Type="Str"></Property>
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
-	<Property Name="Serialized ACL" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Serialized ACL" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="myDCPwr-QL355TP" Type="Folder">
 		<Item Name="myDCPwr-QL355TP_Behavior_1" Type="Variable">
@@ -67,7 +67,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Behavior_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -86,7 +86,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_CurrentLimit_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -105,7 +105,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_CurrentLimit_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -124,7 +124,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_DesiredOutputState_1" Type="Variable">
 			<Property Name="Alarming:Boolean:Enabled" Type="Str">False</Property>
@@ -147,7 +147,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_DesiredOutputState_2" Type="Variable">
 			<Property Name="Alarming:Boolean:Enabled" Type="Str">False</Property>
@@ -170,7 +170,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_DriverRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -184,7 +184,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_ErrorCode" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -224,7 +224,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_ErrorMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -238,7 +238,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_FirmwareRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -252,7 +252,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_InState_1" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -264,7 +264,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_InState_2" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -276,7 +276,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_MaxCurrentLimit_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -295,7 +295,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_MaxCurrentLimit_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -314,7 +314,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_MaxVoltageLevel_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -333,7 +333,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_MaxVoltageLevel_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -352,7 +352,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Measure_A_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -371,7 +371,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Measure_A_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -390,7 +390,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Measure_V_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -409,7 +409,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Measure_V_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -428,7 +428,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_NumberOfChannels" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -447,7 +447,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/CS++Devices/BaseClasses/CS++DeviceBaseSV.lvlib/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OutputEnable_1" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -459,7 +459,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OutputEnable_2" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -471,7 +471,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OVPEnabled_1" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -483,7 +483,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OVPEnabled_2" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -495,7 +495,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OVPLimit_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -514,7 +514,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_OVPLimit_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -533,7 +533,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Range_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Unit depensd on Range type.</Property>
@@ -545,7 +545,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_Range_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Unit depensd on Range type.</Property>
@@ -557,7 +557,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_RangeType_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -576,7 +576,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_RangeType_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -595,7 +595,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_ResourceName" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -609,7 +609,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_SelftestResultCode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -623,7 +623,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_SelftestResultMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -637,7 +637,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerCurrentLimit_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -656,7 +656,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerCurrentLimit_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -675,7 +675,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerSource_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -694,7 +694,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerSource_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -713,7 +713,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerVoltageLevel_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -732,7 +732,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_TriggerVoltageLevel_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -751,7 +751,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_VoltageLevel_1" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -770,7 +770,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDCPwr-QL355TP_VoltageLevel_2" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -789,7 +789,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDCPwr/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
 	<Item Name="myDMM-Fluke45" Type="Folder">
@@ -803,7 +803,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ACMaxFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -815,7 +815,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ACMinFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -827,7 +827,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ActualRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -839,7 +839,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_Alpha" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -850,7 +850,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ApertureTime" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -862,7 +862,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ApertureTimeUnit" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -874,7 +874,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_AutoZeroMode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -886,7 +886,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_DriverRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -900,7 +900,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ErrorCode" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -940,7 +940,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ErrorMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -954,7 +954,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_FirmwareRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -968,7 +968,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_FixedReferenceJunction" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -980,7 +980,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_FrequencyVoltageRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -992,7 +992,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_IsOverRange" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -1023,7 +1023,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_MeasCompleteDestination" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1035,7 +1035,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_MeasurementFunction" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Valid Values:
@@ -1060,7 +1060,7 @@ IVIDMM_VAL_TEMPERATURE        - Temperature (C)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_MPReading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -1073,7 +1073,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"-!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"9!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_PowerLineFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1085,7 +1085,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_Range" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1097,7 +1097,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_Reading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -1116,7 +1116,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ReferenceJunctionType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1128,7 +1128,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_Resistance" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1140,7 +1140,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ResourceName" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1154,7 +1154,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_SampleCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1166,7 +1166,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_SampleInterval" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1178,7 +1178,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_SampleTrigger" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1190,7 +1190,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_SelftestResultCode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1204,7 +1204,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_SelftestResultMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1218,7 +1218,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_ThermocoupleType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1230,7 +1230,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_TransducerType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1242,7 +1242,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_TriggerCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1254,7 +1254,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_TriggerDelay" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1266,7 +1266,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_TriggerSlope" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1278,7 +1278,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-Fluke45_TriggerSource" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1290,7 +1290,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
 	<Item Name="myDMM-KE2000" Type="Folder">
@@ -1304,7 +1304,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ACMaxFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -1316,7 +1316,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ACMinFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1328,7 +1328,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ActualRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1340,7 +1340,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_Alpha" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -1351,7 +1351,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ApertureTime" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1363,7 +1363,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ApertureTimeUnit" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1375,7 +1375,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_AutoZeroMode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1387,7 +1387,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_DriverRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1401,7 +1401,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ErrorCode" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -1441,7 +1441,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ErrorMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1455,7 +1455,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_FirmwareRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1469,7 +1469,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_FixedReferenceJunction" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1481,7 +1481,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_FrequencyVoltageRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1493,7 +1493,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_IsOverRange" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -1524,7 +1524,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_MeasCompleteDestination" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1536,7 +1536,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_MeasurementFunction" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Valid Values:
@@ -1561,7 +1561,7 @@ IVIDMM_VAL_TEMPERATURE        - Temperature (C)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_MPReading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -1574,7 +1574,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"-!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"9!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_PowerLineFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1586,7 +1586,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_Range" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1598,7 +1598,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_Reading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -1617,7 +1617,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ReferenceJunctionType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1629,7 +1629,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_Resistance" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1641,7 +1641,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ResourceName" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1655,7 +1655,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_SampleCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1667,7 +1667,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_SampleInterval" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1679,7 +1679,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_SampleTrigger" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1691,7 +1691,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_SelftestResultCode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1705,7 +1705,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_SelftestResultMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1719,7 +1719,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_ThermocoupleType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1731,7 +1731,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_TransducerType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1743,7 +1743,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_TriggerCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1755,7 +1755,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_TriggerDelay" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1767,7 +1767,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_TriggerSlope" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1779,7 +1779,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2000_TriggerSource" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1791,7 +1791,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
 	<Item Name="myDMM-KE2700" Type="Folder">
@@ -1805,7 +1805,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ACMaxFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -1817,7 +1817,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ACMinFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1829,7 +1829,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ActualRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1841,7 +1841,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_Alpha" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Initial Value,Network</Property>
@@ -1852,7 +1852,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ApertureTime" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1864,7 +1864,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ApertureTimeUnit" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1876,7 +1876,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_AutoZeroMode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1888,7 +1888,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_DriverRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1902,7 +1902,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ErrorCode" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -1942,7 +1942,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ErrorMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1956,7 +1956,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_FirmwareRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1970,7 +1970,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_FixedReferenceJunction" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1982,7 +1982,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_FrequencyVoltageRange" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -1994,7 +1994,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_IsOverRange" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -2025,7 +2025,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_MeasCompleteDestination" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2037,7 +2037,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_MeasurementFunction" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Valid Values:
@@ -2062,7 +2062,7 @@ IVIDMM_VAL_TEMPERATURE        - Temperature (C)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_MPReading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -2075,7 +2075,7 @@ Unit depend on measurement.</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"-!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"9!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_PowerLineFrequency" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2087,7 +2087,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_Range" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2099,7 +2099,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_Reading" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -2118,7 +2118,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ReferenceJunctionType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2130,7 +2130,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_Resistance" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2142,7 +2142,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ResourceName" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2156,7 +2156,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_SampleCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2168,7 +2168,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_SampleInterval" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2180,7 +2180,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_SampleTrigger" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2192,7 +2192,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_SelftestResultCode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2206,7 +2206,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_SelftestResultMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2220,7 +2220,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_ThermocoupleType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2232,7 +2232,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_TransducerType" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2244,7 +2244,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_TriggerCount" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2256,7 +2256,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_TriggerDelay" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2268,7 +2268,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_TriggerSlope" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2280,7 +2280,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myDMM-KE2700_TriggerSource" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2292,7 +2292,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myDMM/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
 	<Item Name="myFgen-HP33220A" Type="Folder">
@@ -2361,7 +2361,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AdvancedTriggerSource_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the source of the advance trigger. The driver sets the IviFgen Advance Trigger Source [AT] property to this value. 
@@ -2428,7 +2428,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AM-Enabled_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specify whether you want the function generator to apply amplitude modulation to the channel.  The driver sets the IviFgen&gt;&gt;Amplitude Modulation Attributes&gt;&gt;AM Enabled [AM] property to this value. 
@@ -2442,7 +2442,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AM-ModulationDepth" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the percentage of full modulation you want to apply to the carrier signal.  The driver sets the IviFgen&gt;&gt;Amplitude Modulation Attributes&gt;&gt;AM Internal Depth [AM] property to this value.  At 0% depth, the output amplitude equals the carrier signal's amplitude.  At 100% depth, the output amplitude equals twice the the carrier signal's amplitude.
@@ -2459,7 +2459,7 @@ Units: Percentage (%)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AM-ModulationFrequency" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the frequency at which you want the instrument to generate the modulating waveform.  The driver sets the IviFgen&gt;&gt;Amplitude Modulation Attributes&gt;&gt;AM Internal Frequency [AM] property to this value.
@@ -2475,7 +2475,7 @@ Units: Hertz (Hz)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AM-ModulationWaveform" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the waveform you want to use to modulate the output signal.  The driver sets the IVIFGEN_ATTR_AM_INTERNAL_WAVEFORM attribute to this value.
@@ -2496,7 +2496,7 @@ IVIFGEN_VAL_AM_INTERNAL_RAMP_DOWN - Negative ramp waveform
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_AM-Source_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the source of the modulating signal you want to use.  The driver sets the IviFgen&gt;&gt;Amplitude Modulation Attributes&gt;&gt;AM Source [AM] property to this value. 
@@ -2514,7 +2514,7 @@ IVIFGEN_VAL_AM_EXTERNAL - external modulation source
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_Amplitude_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the amplitude of the standard waveform that you want the function generator to produce.  This value is the amplitude at the output terminal.  The driver sets the IviFgen&gt;&gt; Standard Function Output&gt;&gt;Amplitude [STD] property to this value.  For example,  to produce a waveform ranging from -5.00 to +5.00 volts, set the amplitude to 10.00 volts.
@@ -2536,7 +2536,7 @@ Notes:
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_Arb-Frequency_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the frequency at which you want the function generator to produce one cycle of an arbitrary waveform.  The driver sets the IviFgen&gt;&gt;Arbitrary Waveform Output&gt;&gt;Arbitrary Waveform Frequency&gt;&gt;Arb Frequency [AF] property to this value.
@@ -2552,7 +2552,7 @@ Units: Hertz (Hz)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_BurstCount_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the number of waveform cycles you want the function generator to produce after it receives a trigger.  The driver sets the IviFgen&gt;&gt;Burst Operation Attributes&gt;&gt;Burst Count property to this value. 
@@ -2570,7 +2570,7 @@ An arbitrary sequence consists of multiple arbitrary waveforms in a sequence.  E
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ChannelEnabled_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specify whether you want the signal the function generator produces to appear at the output terminal.  The driver sets the IviFgen&gt;&gt;Basic Operation&gt;&gt;Output Enabled property to this value. 
@@ -2584,7 +2584,7 @@ An arbitrary sequence consists of multiple arbitrary waveforms in a sequence.  E
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_DCOffset_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the DC offset of the standard waveform that you want the function generator to produce.  This value is the offset at the output terminal.  The value is the offset from ground to the center of the waveform you specify with the Waveform parameter.  The driver sets the IviFgen&gt;&gt;Standard Function Output&gt;&gt;DC Offset [STD] property to this value.  For example,  to configure a waveform with an amplitude of 10.00 volts to range from 0.00 volts to +10.00 volts, set the DC Offset to 5.00 volts.
@@ -2600,7 +2600,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_DriverRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2614,7 +2614,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ErrorCode" Type="Variable">
 			<Property Name="Alarming:BitArray:Enabled" Type="Str">False</Property>
@@ -2656,7 +2656,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ErrorMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2670,7 +2670,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FirmwareRevision" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2684,7 +2684,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FM-Enabled_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specify whether you want the function generator to apply frequency modulation to the channel.  The driver sets the IviFgen&gt;&gt;Frequency Modulation Attributes&gt;&gt;FM Enabled [FM] property to this value. 
@@ -2698,7 +2698,7 @@ Units: Volts (V)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FM-ModulationFrequency" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the frequency at which you want the instrument to generate the modulating waveform.  The driver sets the IviFgen&gt;&gt;Amplitude Modulation Attributes&gt;&gt;AM Internal Frequency [AM] property to this value.
@@ -2714,7 +2714,7 @@ Units: Hertz (Hz)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FM-ModulationWaveform" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the waveform you want to use to modulate the output signal.  The driver sets the IVIFGEN_ATTR_FM_INTERNAL_WAVEFORM attribute to this value.
@@ -2735,7 +2735,7 @@ IVIFGEN_VAL_FM_INTERNAL_RAMP_DOWN - Negative ramp waveform
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FM-PeakDeviation" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the frequency of the internal modulating signal.  The driver sets the IviFgen&gt;&gt;Frequency Modulation Attributes&gt;&gt;FM Internal Frequency [FM] property to this value.
@@ -2754,7 +2754,7 @@ Units: Hertz (Hz)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_FM-Source_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the source of the modulating signal you want to use.  The driver sets the IviFgen&gt;&gt;Frequency Modulation Attributes&gt;&gt;FM Source [FM] property to this value. 
@@ -2773,7 +2773,7 @@ IVIFGEN_VAL_FM_EXTERNAL - external modulation source
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_Frequency_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the frequency of the standard waveform that you want the function generator to produce.  The driver sets the IviFgen&gt;&gt;Standard Function Output&gt;&gt;Frequency [STD] property to this value.
@@ -2793,7 +2793,7 @@ Notes:
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_NumberOfChannels" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Measurement value.
@@ -2812,7 +2812,7 @@ Unit depend on measurement.</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_OperationMode_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the operation mode you want the function generator to use.  The driver sets the IviFgen&gt;&gt;Basic Operation&gt;&gt;Operation Mode property to this value.
@@ -2833,7 +2833,7 @@ IVIFGEN_VAL_OPERATE_CONTINUOUS - continuous generation
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_OutputImpedance_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the impedance value you want the function generator to use.  The driver sets the IviFgen&gt;&gt;Basic Operation&gt;&gt;Output Impedance property to this value.  
@@ -2847,7 +2847,7 @@ A value of 0.0 indicates that the function generator is connected to a high impe
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_OutputMode" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the output mode you want the function generator to use.  The driver sets the IviFgen&gt;&gt;Basic Operation&gt;&gt;Output Mode property to this value.  The value you specify determines which VIs and properties you use to configure the waveform the function generator produces.
@@ -2915,7 +2915,7 @@ IVIFGEN_VAL_OUTPUT_SEQ - Arbitrary Sequence output
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ReferenceClockSource" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the reference clock source you want the function generator to use.  The driver sets the IviFgen&gt;&gt;Basic Operation&gt;&gt;Reference Clock Source property to this value.
@@ -2937,7 +2937,7 @@ IVIFGEN_VAL_REF_CLOCK_RTSI_CLOCK - RTSI clock source
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ResourceName" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -2951,7 +2951,7 @@ IVIFGEN_VAL_REF_CLOCK_RTSI_CLOCK - RTSI clock source
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ResumeTriggerSlope_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the slope of the start trigger. The driver sets the IviFgen Start Trigger Slope [STT] property to this value. 
@@ -2970,7 +2970,7 @@ IVIFGEN_VAL_TRIGGER_EITHER (2)    - Triggers on either a positive or negative sl
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_ResumeTriggerSource_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the source of the resume trigger. The driver sets the IviFgen Resume Trigger Source [RT] property to this value. 
@@ -3037,7 +3037,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_SampleClockOutputEnabled" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass whether you want sample clock to appear at the sample clock output of the generator. The driver sets the IviFgen Sample Clock Output Enabled [SC] property to this value.
@@ -3055,7 +3055,7 @@ VI_FALSE - Disable the sample clock output
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"-!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"9!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_SampleClockSource" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the sample clock source you want the function generator to use.  The driver sets the IviFgen Sample Clock Source [SC] property to this value. The value you specify determines the clock used for the waveform generation.
@@ -3076,7 +3076,7 @@ IVIFGEN_VAL_SAMPLE_CLOCK_SOURCE_EXTERNAL (1)  - Use an external sample clock.
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_SampleRate" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the sample rate at which you want the function generator to output arbitrary waveforms.  The driver sets the IviFgen&gt;&gt;Arbitrary Waveform Output&gt;&gt;Sample Rate [ARB] property to this value. 
@@ -3092,7 +3092,7 @@ Units: Samples-per-Second (Samp/s)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_SelftestResultCode" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -3106,7 +3106,7 @@ Units: Samples-per-Second (Samp/s)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_SelftestResultMessage" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network,Initial Value</Property>
@@ -3120,7 +3120,7 @@ Units: Samples-per-Second (Samp/s)
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_StartPhase_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the horizontal offset of the standard waveform you want the the function generator to produce.  You specify this property in degrees of one waveform cycle.  The driver sets the IviFgen&gt;&gt;Standard Function Output&gt;&gt;Start Phase [STD] property to this value.  A start phase of 180 degrees means output generation begins half way through the waveform.  A start phase of 360 degrees offsets the output by an entire waveform cycle, which is identical to a start phase of 0 degrees.
@@ -3141,7 +3141,7 @@ Notes:
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_StartTriggerSlope_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the slope of the start trigger. The driver sets the IviFgen Start Trigger Slope [STT] property to this value. 
@@ -3160,7 +3160,7 @@ IVIFGEN_VAL_TRIGGER_EITHER (2)    - Triggers on either a positive or negative sl
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_StartTriggerSource_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the source of the start trigger. The driver sets the IviFgen Start Trigger Source [STT] property to this value. 
@@ -3227,7 +3227,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_StopTriggerSlope_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the slope of the start trigger. The driver sets the IviFgen Start Trigger Slope [STT] property to this value. 
@@ -3246,7 +3246,7 @@ IVIFGEN_VAL_TRIGGER_EITHER (2)    - Triggers on either a positive or negative sl
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_StopTriggerSource_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specifies the source of the stop trigger. The driver sets the IviFgen Stop Trigger Source [SPT] property to this value. 
@@ -3313,7 +3313,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"-!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"9!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_TriggerRate" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Specify the rate at which you want the function generator's internal trigger rate to generate trigger signals.  The driver sets the IviFgen&gt;&gt;Triggering Attributes&gt;&gt;Internal Trigger Attributes&gt;&gt;Internal Trigger Rate [IT] to this value.</Property>
@@ -3326,7 +3326,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"-!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"9!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_TriggerSource_0" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Network</Property>
@@ -3336,7 +3336,7 @@ IVIFGEN_VAL_TRIGGER_SOURCE_RTSI6 ("RTSI6")      - RTSI Bus Line 6
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="myFgen-HP33220A_Waveform_0" Type="Variable">
 			<Property Name="Description:Description" Type="Str">Pass the standard waveform that you want the function generator to produce.  The driver sets the IviFgen&gt;&gt;Standard Function Output&gt;&gt;Waveform [STD] property to this value.
@@ -3358,7 +3358,7 @@ IVIFGEN_VAL_WFM_DC - Constant voltage
 			<Property Name="numTypedefs" Type="UInt">0</Property>
 			<Property Name="Path" Type="Str">/CS++.lvproj/My Computer/Examples/CS++Core-ExampleSV.lvlib/myFgen/</Property>
 			<Property Name="type" Type="Str">Network</Property>
-			<Property Name="typeDesc" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"-!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!D(Q!!!"9!A!!!!!!"!!N!!Q!&amp;37ZU-T)!!1!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
 </Library>

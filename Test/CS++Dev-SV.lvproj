@@ -1,8 +1,12 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="13008000">
+<Project Type="Project" LVVersion="16008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">Project to be used to maintain Shared Variable libraries</Property>
+	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
+	<Property Name="varPersistentID:{001B87BA-D813-4900-93FD-2D24A2F1DBBB}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Measure_A_1</Property>
 	<Property Name="varPersistentID:{00334212-39B5-4559-A7C0-BFFE1F8EBF49}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_CurrentLimit_1</Property>
+	<Property Name="varPersistentID:{00B06F03-3860-4580-B3D1-1F1AFE4455C6}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_FrequencyVoltageRange</Property>
+	<Property Name="varPersistentID:{017A6192-59E9-4C2F-94E6-3EF41162D35D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ChannelEnabled_2</Property>
 	<Property Name="varPersistentID:{01A0C5CE-E0C5-4DE2-9BAA-82167AC816A7}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_DriverRevision</Property>
 	<Property Name="varPersistentID:{01AFDF96-1854-48E4-BD47-53EF7395E31D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_TriggerSlope</Property>
 	<Property Name="varPersistentID:{01D90541-FB16-459A-ABDB-6EA8C26270DF}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_Reading</Property>
@@ -10,6 +14,10 @@
 	<Property Name="varPersistentID:{0235613F-8171-4E66-A727-7D7CF2D4AD0A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Behavior_0</Property>
 	<Property Name="varPersistentID:{03100394-787C-4198-AF68-1A46B77892D9}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ResumeTriggerSlope_0</Property>
 	<Property Name="varPersistentID:{035BFDC7-03FB-4AEF-866E-9B8BC8B14E29}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_OperationMode_0</Property>
+	<Property Name="varPersistentID:{04021C39-3B67-4AEE-BE4E-3ACBE0ECAF24}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerLevel</Property>
+	<Property Name="varPersistentID:{04698E73-45D1-405F-A621-179D6F34B6FE}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerCurrentLimit_2</Property>
+	<Property Name="varPersistentID:{0527E375-91E1-4A7B-88F6-420BCEA7E064}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_SelftestResultCode</Property>
+	<Property Name="varPersistentID:{053752A0-6604-493E-BE18-DFE47B3A9CB5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_WidthHighThreshold</Property>
 	<Property Name="varPersistentID:{05A92BFF-44B5-47B9-9F88-6133D1918D0F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_PowerLineFrequency</Property>
 	<Property Name="varPersistentID:{05C6C5B4-9D0A-49BA-A06D-8B6B4B115A66}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_Amplitude_0</Property>
 	<Property Name="varPersistentID:{06024AE7-D84A-4F8A-ADB8-19783315FB7A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ReferenceJunctionType</Property>
@@ -17,38 +25,52 @@
 	<Property Name="varPersistentID:{06FDCA4B-7F06-4025-AE10-21B3E09E768D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_SampleCount</Property>
 	<Property Name="varPersistentID:{072B0C86-B473-4936-8C3C-7138E70152B5}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_SampleCount</Property>
 	<Property Name="varPersistentID:{07DF01CE-E03D-47D9-B779-6F354893AF73}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_MPReading</Property>
+	<Property Name="varPersistentID:{088CE0A9-DEA2-4229-9DE0-9C4320F924EE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ReferenceJunctionType</Property>
 	<Property Name="varPersistentID:{0A31FCA6-46E8-4706-ADDA-34B5891ECB9A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OutputEnable_1</Property>
+	<Property Name="varPersistentID:{0B663B7D-FD9D-4522-84CF-11AAA87D837D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_TriggerCount</Property>
 	<Property Name="varPersistentID:{0B838406-47CC-4AA2-B275-BA517C373752}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ApertureTime</Property>
+	<Property Name="varPersistentID:{0BC94E7F-CB76-411D-8D5B-1FFB7D03D5A3}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ACMinFrequency</Property>
+	<Property Name="varPersistentID:{0BF683A4-F86C-491B-87DC-4A5CE845FD93}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OVPLimit_2</Property>
 	<Property Name="varPersistentID:{0C609960-1646-4F4A-AF87-25D61EE91B6C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ReferenceClockSource</Property>
 	<Property Name="varPersistentID:{0D0AB1DB-AF11-426B-8A2C-F2BA60F0E39A}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{0DB3B286-3C39-4A98-82FF-5719783C120E}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_IsOverRange</Property>
 	<Property Name="varPersistentID:{0DDBA1F7-BC08-496E-835A-4657504B4A1F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_Reading</Property>
 	<Property Name="varPersistentID:{0E3268E8-B26B-403D-920C-910BF48A0C9B}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_StartTriggerSlope_0</Property>
 	<Property Name="varPersistentID:{0F0C7C14-5D3A-4F5C-BF5A-7B309DCFC415}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_TriggerCount</Property>
+	<Property Name="varPersistentID:{0FA16091-0D3E-41DA-95D9-32979514951A}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{0FE4E577-ADDA-4603-8416-0625A767481E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FM-Source_0</Property>
 	<Property Name="varPersistentID:{10507FE2-008E-44DD-B287-5BBAEE3E393F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_MaxVoltageLevel_1</Property>
 	<Property Name="varPersistentID:{10A520FE-873A-49CD-AE17-687F337C5E71}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_Arb-Frequency_0</Property>
 	<Property Name="varPersistentID:{110EBB20-AD64-469D-AB24-256E03C50FAF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_OutputImpedance_0</Property>
 	<Property Name="varPersistentID:{12353A97-463E-4070-A110-6EF3DAB4A629}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ActualRange</Property>
 	<Property Name="varPersistentID:{132276A7-E12C-47EC-B95C-164E8ADB6CC9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_FixedReferenceJunction</Property>
+	<Property Name="varPersistentID:{1377D239-1583-4C8A-A9CF-3CCBC321F9C1}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TVLineNumber</Property>
+	<Property Name="varPersistentID:{146232CD-DFE0-4067-8136-4F57E698ECC0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_GlitchPolarity</Property>
+	<Property Name="varPersistentID:{1467E2EF-F3A1-47A8-9557-C5346A37889A}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{148D61AF-253F-411C-8F86-7AE4E6AD4D81}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_RangeType_2</Property>
 	<Property Name="varPersistentID:{14921841-B00E-4DC5-AB5B-3429690D8404}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_IsOverRange</Property>
 	<Property Name="varPersistentID:{14D77AE0-7211-42F6-BDFC-87A0A61D813B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_InState_2</Property>
 	<Property Name="varPersistentID:{14F9D834-E1FE-4F1F-9BFB-F91934E44CE0}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ResumeTriggerSource_0</Property>
 	<Property Name="varPersistentID:{154B0C15-FCED-4680-8742-08D6222E1E6A}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_BurstCount_0</Property>
 	<Property Name="varPersistentID:{154CAD59-2A87-4A31-91AC-D4B59557B425}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_FirmwareRevision</Property>
+	<Property Name="varPersistentID:{165FE755-9E14-4A14-91E8-C56D6396B9AF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_LowReference</Property>
 	<Property Name="varPersistentID:{16E25716-827C-4BED-9105-A890C83FFC07}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FM-Enabled_0</Property>
 	<Property Name="varPersistentID:{1701F078-E4FC-4A5D-A3FC-682EF1FA290A}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ReferenceClockSource</Property>
 	<Property Name="varPersistentID:{18C7D413-AFC4-4C45-92D6-349145E539BC}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_Resistance</Property>
+	<Property Name="varPersistentID:{19A14FBB-370E-4018-B55D-2E2561B89CA3}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OVPLimit_1</Property>
 	<Property Name="varPersistentID:{1AA7A450-17EB-4034-BC7E-3B6C3AD4ED7A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Range_2</Property>
 	<Property Name="varPersistentID:{1AB09965-4382-4710-AB35-A0C0D5C00D16}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerCurrentLimit_1</Property>
+	<Property Name="varPersistentID:{1B185753-249D-40C2-85C7-9C43E76D0CD5}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_TriggerSource</Property>
 	<Property Name="varPersistentID:{1B245239-AB6E-429C-B562-A50C8F394396}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerVoltageLevel_0</Property>
 	<Property Name="varPersistentID:{1C5E2CE9-315A-4F3A-9B1E-1C80EDA6D85B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Measure_A_2</Property>
+	<Property Name="varPersistentID:{1C6A87FF-7E8A-4F38-B5E3-2E74D9EEC151}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_PowerLineFrequency</Property>
 	<Property Name="varPersistentID:{1C8C6B4C-94CF-4D64-AD33-92F38A206623}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_Reading</Property>
 	<Property Name="varPersistentID:{1CF02A8D-829D-4AA8-8267-7080E7763323}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_MeasurementFunction</Property>
 	<Property Name="varPersistentID:{1D3478ED-EA59-4A78-AFF3-A551F893EA94}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_MPReading</Property>
 	<Property Name="varPersistentID:{1DA3DA21-7286-48E5-A59D-241213441E66}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerSource_1</Property>
+	<Property Name="varPersistentID:{1EC951CA-263E-45CA-8423-6E1DBF7D4F44}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{1EDEC8C8-C484-43BF-A1AB-EAFF57ED6046}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_MaxCurrentLimit_1</Property>
+	<Property Name="varPersistentID:{1F991184-F093-4175-970B-FFAEB774932E}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Measure_A_2</Property>
 	<Property Name="varPersistentID:{20DF1244-6CA3-40FC-8566-132F5971BE8F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{212F09B9-E2A3-4BD9-9F8F-7D48B7320317}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_SampleCount</Property>
 	<Property Name="varPersistentID:{2248827C-B811-43AB-81DE-D71590D8E17D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_SelftestResultMessage</Property>
@@ -57,75 +79,129 @@
 	<Property Name="varPersistentID:{257A54FD-675B-4D6C-BFD0-08785FF60B0F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OVPEnabled_0</Property>
 	<Property Name="varPersistentID:{26485E81-6A3F-4589-B4BB-65307A0239FE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ReferenceJunctionType</Property>
 	<Property Name="varPersistentID:{265B0FCA-205C-4BDF-8E92-D5B2AF346F78}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ErrorMessage</Property>
+	<Property Name="varPersistentID:{2677695D-0165-4407-A8BB-9148B7B0FA41}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_RangeType_2</Property>
+	<Property Name="varPersistentID:{271A243E-F934-4CFC-8B43-CE1B0C5B93A2}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalRange_3</Property>
 	<Property Name="varPersistentID:{27B03139-6E69-4130-812F-441B818B4768}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Range_0</Property>
+	<Property Name="varPersistentID:{28326E9B-593A-470A-B1B6-0A051247128D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ApertureTimeUnit</Property>
+	<Property Name="varPersistentID:{29467208-619C-4CCA-8025-DCB336112CB6}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Range_1</Property>
 	<Property Name="varPersistentID:{29ECA989-BA7E-4CFA-A354-7BF76BA18B9C}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_DriverRevision</Property>
+	<Property Name="varPersistentID:{2A5C9715-DE37-4C12-8FEB-F4E4243431A5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalCoupling_0</Property>
 	<Property Name="varPersistentID:{2A97BB3A-D045-4E58-B65F-E49D2CAB0B5B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_CurrentLimit_0</Property>
+	<Property Name="varPersistentID:{2D229CCC-E0F6-472E-ABAA-7BBAA2441436}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerVoltageLevel_2</Property>
 	<Property Name="varPersistentID:{2D3C61EF-B9E4-4304-B459-9FD6F959C43F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ResourceName</Property>
+	<Property Name="varPersistentID:{2DD071D8-3FF7-4018-9B29-D94310B3928C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_RuntHighThreshold</Property>
+	<Property Name="varPersistentID:{2E163452-34A3-40C8-944A-AD694D1489AE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ACLineTriggerSlope</Property>
 	<Property Name="varPersistentID:{2E335703-DB52-44F9-917A-5A3C3FA23A6A}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_Alpha</Property>
 	<Property Name="varPersistentID:{2FEE35FE-C8DD-4588-BF76-281C531C3D7F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_TriggerSlope</Property>
 	<Property Name="varPersistentID:{31F241C3-2D14-40BC-AF74-3FC8A28B14AA}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_RangeType_1</Property>
+	<Property Name="varPersistentID:{33021376-55BB-4E03-BF83-B6B1FBAD2034}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MaxInputFrequency_2</Property>
+	<Property Name="varPersistentID:{33168865-1FA3-4605-809E-C4AB9FCBD318}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_FirmwareRevision</Property>
+	<Property Name="varPersistentID:{33A1CDFE-719B-4A90-8F72-8690CF3A44C8}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_MPReading</Property>
+	<Property Name="varPersistentID:{3465647E-A523-4580-B702-AE74AFB0EDA7}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{34F66AC4-EAC3-442A-8F03-01E6876A6E6E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_ErrorMessage</Property>
+	<Property Name="varPersistentID:{369FFF9D-7ACB-42CA-82D5-206EC99D95EB}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ApertureTime</Property>
+	<Property Name="varPersistentID:{36F81164-FE90-4959-B391-6F8D38879D74}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_NumberOfAverages</Property>
 	<Property Name="varPersistentID:{3878DC8A-2A4B-4B2F-B834-2E1F46AB240A}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AM-ModulationWaveform</Property>
 	<Property Name="varPersistentID:{3887A6F1-4CD0-4865-9C7F-00779644674D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerCurrentLimit_2</Property>
+	<Property Name="varPersistentID:{397CBEAE-E5EC-4BA3-92BD-74C761B75892}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ChannelEnabled_1</Property>
 	<Property Name="varPersistentID:{3A0D997C-D637-4F11-AB6E-53BC38720DB6}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AM-ModulationFrequency</Property>
 	<Property Name="varPersistentID:{3A5CC5D8-A909-4372-804C-EE5ABA0B1309}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_TriggerSource</Property>
 	<Property Name="varPersistentID:{3AEF9C4C-71B0-4607-90E2-C868C6C9C8D2}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AM-ModulationDepth</Property>
 	<Property Name="varPersistentID:{3B0F8479-BD7A-4FEE-935C-A5AC2391DABC}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_DriverRevision</Property>
+	<Property Name="varPersistentID:{3BD4282B-ACD2-49E9-8190-A499323B1F44}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MaxInputFrequency_3</Property>
 	<Property Name="varPersistentID:{3E2DEB94-B34C-44E4-8362-7EB6F02E7DD3}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_DCOffset_0</Property>
 	<Property Name="varPersistentID:{3EF98AD3-2902-4D00-AF62-1BFF62346FE7}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_SampleRate</Property>
+	<Property Name="varPersistentID:{4154376E-D53E-414D-8EC4-92E9F91FB59C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_InputImpedance_1</Property>
 	<Property Name="varPersistentID:{41F41175-7EAA-4252-9E18-9C077A39D7FE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Measure_A_0</Property>
 	<Property Name="varPersistentID:{42260228-18CB-4773-AB96-607E02877C87}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_SelftestResultMessage</Property>
+	<Property Name="varPersistentID:{43288F87-A6AF-48F9-A72B-FCD587C34DC0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_InputImpedance_0</Property>
 	<Property Name="varPersistentID:{43502691-B822-4EA5-87BB-12DEA9753B6F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OVPEnabled_2</Property>
 	<Property Name="varPersistentID:{449EC185-79B7-48CE-81E0-C67A107B7968}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_StartPhase_0</Property>
+	<Property Name="varPersistentID:{4595B769-724B-4E6F-AE22-289740F50F72}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ProbeAttenuation_1</Property>
+	<Property Name="varPersistentID:{46279FAE-9E33-485E-8875-362CD62A30F1}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_ErrorMessage</Property>
 	<Property Name="varPersistentID:{4655D81D-9D2A-4A2F-A40C-89AABCBA5AC4}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_AbsoluteResolution</Property>
+	<Property Name="varPersistentID:{471AB1AE-F747-476B-B718-C9CA7766EBA8}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TVEvent</Property>
+	<Property Name="varPersistentID:{480D1C21-C61B-4ECE-A5B3-B855FBDBC6F5}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Measure_V_2</Property>
 	<Property Name="varPersistentID:{4945CD1D-A821-4B18-AAAB-CD32146B5D05}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_VoltageLevel_2</Property>
 	<Property Name="varPersistentID:{49F319F5-8B95-4D6E-B57A-BEF0510ECE3E}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_MPReading</Property>
+	<Property Name="varPersistentID:{4B18A6EC-51C2-4B35-B898-C2F8A14A59CB}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerSlope</Property>
 	<Property Name="varPersistentID:{4C7A3CF9-FF1C-46EF-925F-A95242FAEA0B}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_SampleClockSource</Property>
 	<Property Name="varPersistentID:{4CCA0664-40E4-4948-8477-D427C1AA2060}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_Frequency_0</Property>
 	<Property Name="varPersistentID:{4D03252A-75D3-4999-B656-D29325611791}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ErrorCode</Property>
 	<Property Name="varPersistentID:{4D1C960A-54FF-415A-8A93-D920423E39F5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OutputEnable_2</Property>
 	<Property Name="varPersistentID:{4D2D7040-4DDD-49D6-9B04-DE61274C2107}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_SampleInterval</Property>
 	<Property Name="varPersistentID:{4DA5047C-9333-4E77-BD28-5F0374229608}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_StartPhase_0</Property>
+	<Property Name="varPersistentID:{4DDCE3C1-65BB-4B86-B8F8-87C3DC70B1EC}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{4DE14360-C740-44AE-B212-1B28F5C382AA}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_AutoZeroMode</Property>
+	<Property Name="varPersistentID:{4E46B21D-389B-4062-B867-787E9502EAE5}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerCurrentLimit_1</Property>
+	<Property Name="varPersistentID:{4F13A2DA-69BD-40D3-97B1-AD6F5605F5BB}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_DriverRevision</Property>
 	<Property Name="varPersistentID:{4F4D7ADB-7062-4297-80A5-80124A6AFC38}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OVPEnabled_1</Property>
 	<Property Name="varPersistentID:{4FE20BCF-6AA9-49A5-A5B0-4AC21CA7415C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ResumeTriggerSource_0</Property>
 	<Property Name="varPersistentID:{50A468FE-4C1F-44D4-AF26-5A9174340646}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{512D67BF-617E-4CD3-8CB5-0B89AE422F6C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AM-ModulationFrequency</Property>
+	<Property Name="varPersistentID:{51EF4E29-C786-4ABD-AB0D-0C4AFA085983}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ErrorMessage</Property>
 	<Property Name="varPersistentID:{524A02A2-42F6-48EB-B22A-767C63A463DF}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FM-PeakDeviation</Property>
+	<Property Name="varPersistentID:{53CDC8E4-F261-4751-AD84-9C822795FF6A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ResourceName</Property>
+	<Property Name="varPersistentID:{5400E01A-66A0-47EB-BA8B-CD7AD06511C9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TVSignalFormat</Property>
 	<Property Name="varPersistentID:{5497AE21-877B-47AF-BA21-D19ED6479042}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_StartTriggerSource_0</Property>
+	<Property Name="varPersistentID:{55C67C2C-D97A-460C-9535-865F1F6BD862}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_InterpolationMethod</Property>
+	<Property Name="varPersistentID:{573F420D-F411-430D-9CB7-53B8C7116AC2}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_TriggerDelay</Property>
 	<Property Name="varPersistentID:{57607DAB-EB25-424D-BC48-DC54B198C71E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_SampleInterval</Property>
+	<Property Name="varPersistentID:{5783DFAC-E0AE-4E2A-A311-A41F78DF10FD}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_Range</Property>
 	<Property Name="varPersistentID:{57D08072-5DBD-4FED-B6BE-74884A882FCF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_StartTriggerSlope_0</Property>
+	<Property Name="varPersistentID:{58DA3D41-DA33-4D00-89D6-F8FE3510742F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_MeasCompleteDestination</Property>
 	<Property Name="varPersistentID:{590C8F29-156E-47F2-98FF-D89AACE16E28}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FirmwareRevision</Property>
+	<Property Name="varPersistentID:{5958BA31-2417-4EF2-ABDC-5678ED2C79BD}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ErrorCode</Property>
 	<Property Name="varPersistentID:{5A442098-3EC5-4532-B2DF-14B2F6EE22AE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ResourceName</Property>
+	<Property Name="varPersistentID:{5CE00771-F978-4F45-8C5B-3283E0E91EED}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_InState_2</Property>
+	<Property Name="varPersistentID:{5CFE19DB-D803-4F2C-8CE7-C7EE11AED88D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_FixedReferenceJunction</Property>
+	<Property Name="varPersistentID:{5D631316-A373-4F16-BC7D-669659C91251}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MaxInputFrequency_0</Property>
+	<Property Name="varPersistentID:{5EA6EE76-7246-4958-8E91-1B6B28BFC20C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MeasurementDone</Property>
+	<Property Name="varPersistentID:{5EBBA062-4DE8-4391-8021-A4C1382BBE02}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_VoltageLevel_1</Property>
 	<Property Name="varPersistentID:{5F2290FD-C571-477F-A0D3-1280BC7C2C4D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerVoltageLevel_2</Property>
 	<Property Name="varPersistentID:{60597480-E83B-4637-B4D9-D47EF02EF739}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ThermocoupleType</Property>
+	<Property Name="varPersistentID:{60A4E02C-EEED-48DF-BACA-A7A9331FAABB}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OutputEnable_1</Property>
 	<Property Name="varPersistentID:{6302718D-84EC-437E-940B-BA6064E35D9B}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{6368DFC9-B8F6-46DB-A566-957D470E9601}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ApertureTimeUnit</Property>
+	<Property Name="varPersistentID:{6370ADAD-A805-4188-A82E-2850B109D6EC}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_CurrentLimit_1</Property>
+	<Property Name="varPersistentID:{63E62DFE-7D15-4FFC-B7F2-EE7D772516AB}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_AcquisitionStartTime</Property>
+	<Property Name="varPersistentID:{652EE229-D4E1-4F5B-B300-A48817C704AE}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_MaxVoltageLevel_1</Property>
+	<Property Name="varPersistentID:{6535F820-3D80-47C2-899B-81429C0BCEA6}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalOffset_3</Property>
+	<Property Name="varPersistentID:{65415F87-C902-4EF8-9AA5-8B0E44A249E4}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalCoupling_2</Property>
 	<Property Name="varPersistentID:{657443B8-3F58-4BB3-AEB7-A2AB58A465BB}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ResourceName</Property>
+	<Property Name="varPersistentID:{665DB6E2-D5FB-4E71-B1CE-8C0F145C427B}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_SampleTrigger</Property>
 	<Property Name="varPersistentID:{67507054-A23D-4589-9D09-F2580A2C44BF}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_TriggerDelay</Property>
 	<Property Name="varPersistentID:{67914744-FE71-421A-9DF6-4406D714F88E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ApertureTime</Property>
 	<Property Name="varPersistentID:{68AA6F52-77CF-4306-88B6-CB40BCC41E95}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AdvancedTriggerSource_0</Property>
 	<Property Name="varPersistentID:{69D02012-024A-44F1-8FC1-AEE336E056B8}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FM-ModulationFrequency</Property>
+	<Property Name="varPersistentID:{69D8DC55-F1F7-4921-8463-1C27105E8F9D}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OVPEnabled_1</Property>
 	<Property Name="varPersistentID:{6A975B99-4E42-48DB-89BE-BBE999F477F8}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ErrorCode</Property>
 	<Property Name="varPersistentID:{6BBC49F3-4A48-4EDC-9F5A-79E93AFB1B33}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_StopTriggerSource_0</Property>
 	<Property Name="varPersistentID:{6CC4D156-DA80-47DD-B195-03B33C2DBAC1}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AdvancedTriggerSlope_0</Property>
 	<Property Name="varPersistentID:{6D267DB1-F96E-4507-88CC-9DE0B63B8C10}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ChannelEnabled_0</Property>
 	<Property Name="varPersistentID:{6E32F195-17CC-4FFE-A994-1E88E0C7BF72}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_MaxCurrentLimit_2</Property>
+	<Property Name="varPersistentID:{6E467799-A1A0-4598-9132-BC296AF894FE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_TransducerType</Property>
 	<Property Name="varPersistentID:{6E4E7993-67D6-4396-B00D-6930EE016171}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_OperationMode_0</Property>
 	<Property Name="varPersistentID:{6F41AE7A-4716-4B83-A9A7-BCFC19EFC1DE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Measure_V_2</Property>
+	<Property Name="varPersistentID:{6F49E212-B0A4-41E3-89D0-6F566C225D93}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_AcquisitionStatus</Property>
 	<Property Name="varPersistentID:{6FB8AD4D-3FD3-4CD4-820C-18F3929E4464}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_TransducerType</Property>
 	<Property Name="varPersistentID:{6FEA91CE-E377-4E84-AD81-452C2EAF8ADF}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FM-Source_0</Property>
+	<Property Name="varPersistentID:{704B6664-D356-4D99-9D95-FA837B098A21}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalRange_2</Property>
 	<Property Name="varPersistentID:{708E664C-008E-42C0-9757-51872B66DD67}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_TransducerType</Property>
+	<Property Name="varPersistentID:{721DF5E3-A268-4548-861B-770EEB793AF9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ActualRecordLength</Property>
 	<Property Name="varPersistentID:{7465F0C4-9F2F-4F6A-A404-B924F220704B}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_IsOverRange</Property>
 	<Property Name="varPersistentID:{74AB9646-7C22-477F-812C-3AAAA63AE4F0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AdvancedTriggerSource_0</Property>
 	<Property Name="varPersistentID:{74D31DCC-B5EC-4B64-AF9A-118E22907FB3}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_DriverRevision</Property>
 	<Property Name="varPersistentID:{751A4466-6C3A-427C-B6D4-E162A62F286B}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_Range</Property>
 	<Property Name="varPersistentID:{76DEF210-3A24-4CA8-A27F-18A900DF051A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_AutoZeroMode</Property>
 	<Property Name="varPersistentID:{76FFA14F-A6A4-499D-8C18-4D94DA0E8EAA}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_VoltageLevel_1</Property>
+	<Property Name="varPersistentID:{780EA46F-0C73-43E1-B379-DB3757993243}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_GlitchCondition</Property>
 	<Property Name="varPersistentID:{7829F099-EE72-4540-B25A-2E5FAAD7CCD8}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_RangeType_0</Property>
 	<Property Name="varPersistentID:{78CDA8F2-7BF2-4938-82C4-DCB78A57103E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{78F21498-E045-4677-8AA6-82CFEBDAD7C2}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerCurrentLimit_0</Property>
+	<Property Name="varPersistentID:{7A2A757C-A228-4258-B697-328CF9FFF977}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerCoupling</Property>
 	<Property Name="varPersistentID:{7A39E17E-F495-4C00-A85B-B6F41733A189}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_FixedReferenceJunction</Property>
+	<Property Name="varPersistentID:{7AD0282A-CDD0-4A96-B4AA-8450C834BE1E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ProbeAttenuation_0</Property>
 	<Property Name="varPersistentID:{7AD41743-E1A7-4680-A6A3-1CF472395E0A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_SampleClockSource</Property>
 	<Property Name="varPersistentID:{7B3AF00E-E804-4F1C-A4C5-665E926FF17D}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_TriggerRate</Property>
 	<Property Name="varPersistentID:{7B442785-8679-4A3B-ADD3-A11BCB93A4EE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_MeasurementFunction</Property>
@@ -136,20 +212,32 @@
 	<Property Name="varPersistentID:{7CEF2DFD-11F2-4E41-9791-1E3807CA66AD}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ErrorCode</Property>
 	<Property Name="varPersistentID:{7D456AF0-BECD-4FA6-8F32-1F40F8310656}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_MeasurementFunction</Property>
 	<Property Name="varPersistentID:{7E174FFB-03F3-4D1A-AF38-580652BD872F}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AM-Enabled_0</Property>
+	<Property Name="varPersistentID:{7F29DB15-2413-47AD-AF06-05481A81E304}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalRange_0</Property>
+	<Property Name="varPersistentID:{825A9023-E7E5-4C2B-AC33-DB7D9ED63BFA}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ErrorCode</Property>
+	<Property Name="varPersistentID:{826ADEAC-5F54-4C7D-A5B8-8A3844807CC7}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_MaxCurrentLimit_2</Property>
+	<Property Name="varPersistentID:{83F6D43E-A593-42C7-92F0-AD574341E072}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerSource_1</Property>
+	<Property Name="varPersistentID:{84768041-CF3E-4B9D-9F89-B893DFD92C7C}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Behavior_2</Property>
 	<Property Name="varPersistentID:{850A0740-8801-427A-8634-6C84DF5BD86F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerSource_2</Property>
 	<Property Name="varPersistentID:{853F6537-58C5-4BC0-9038-C45926B62D05}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_SampleTrigger</Property>
 	<Property Name="varPersistentID:{8604E26C-EFD4-465D-96B4-FE88B26FAF1D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_NumberOfChannels</Property>
 	<Property Name="varPersistentID:{86656E45-67F4-4C5A-9D43-21AD3CFDC61D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AM-ModulationWaveform</Property>
+	<Property Name="varPersistentID:{86AA7620-9E66-44F1-92F9-D78E886190F3}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_RangeType_1</Property>
 	<Property Name="varPersistentID:{8840DCD5-3097-47EA-866F-428144821F91}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_Waveform_0</Property>
+	<Property Name="varPersistentID:{89190B2D-0955-4BEB-972D-844DBF78E353}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TVTriggerPolarity</Property>
 	<Property Name="varPersistentID:{896F025B-777D-4557-9E03-A23907369AD5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_Resistance</Property>
 	<Property Name="varPersistentID:{89826C75-9A3E-40AD-9B96-3BEB9954ED53}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ApertureTime</Property>
+	<Property Name="varPersistentID:{89953770-39BF-44BC-8979-BDC36509EAB5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerSource</Property>
 	<Property Name="varPersistentID:{8A2410F2-A229-410F-A752-314B2EAD1DBD}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_Frequency_0</Property>
 	<Property Name="varPersistentID:{8A6B8728-FEBD-4C0F-9548-F59D08F4A82C}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ACMinFrequency</Property>
 	<Property Name="varPersistentID:{8A88B79A-6EA1-4813-8AE2-51508640C213}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ACMaxFrequency</Property>
 	<Property Name="varPersistentID:{8B5B48C4-780D-4D2E-90FD-22AA7CC31C20}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AM-Source_0</Property>
+	<Property Name="varPersistentID:{8B82FC1D-EC9E-4004-A795-CD8086DE8D08}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Measure_V_1</Property>
 	<Property Name="varPersistentID:{8CB6F641-6C62-4424-BBB9-C95AD7060CDB}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_ResourceName</Property>
+	<Property Name="varPersistentID:{8D20030F-5B7E-4233-B10A-525911DE791A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_InputImpedance_2</Property>
+	<Property Name="varPersistentID:{8D7B7278-FC4A-41EB-9D6F-1395BF5DA490}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerVoltageLevel_1</Property>
 	<Property Name="varPersistentID:{8E132F1A-EE81-4DBF-AC46-E3CC7EF2982B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_Waveform_0</Property>
 	<Property Name="varPersistentID:{8E877C78-31E4-42FD-9F05-AB0294A9D7B5}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ResourceName</Property>
+	<Property Name="varPersistentID:{8E904AED-B81C-4E6C-AA48-D9054372F32A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_DriverRevision</Property>
 	<Property Name="varPersistentID:{8EAE94D8-F9C2-4C97-B827-90E19F705611}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{8EDE5246-2AD5-484A-9219-7B0B6E65F585}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_BurstCount_0</Property>
 	<Property Name="varPersistentID:{8EE26470-B05C-4B19-AB16-30770430CE93}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FM-ModulationWaveform</Property>
@@ -162,28 +250,51 @@
 	<Property Name="varPersistentID:{926A772C-2824-4E80-A432-BC7960CF2D4F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_TriggerSource</Property>
 	<Property Name="varPersistentID:{93B24498-97E2-4AD0-B4C8-5C1A9CCD0198}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_AbsoluteResolution</Property>
 	<Property Name="varPersistentID:{93BAABCC-11AD-40F0-9621-24322E057BE5}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerSource_0</Property>
+	<Property Name="varPersistentID:{945C621A-11CB-49A9-BDE0-E07FDBC5E5EF}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_AbsoluteResolution</Property>
+	<Property Name="varPersistentID:{94871D96-7CDD-4CA7-871E-2B68CF033DD9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TimePerRecord</Property>
+	<Property Name="varPersistentID:{951AA01D-4300-444A-A3BA-9ED3406B7A81}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_SelftestResultMessage</Property>
+	<Property Name="varPersistentID:{95433D27-3961-4BCB-B2E7-91B6E23E3A8A}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_IsOverRange</Property>
+	<Property Name="varPersistentID:{9546E949-1C7A-4233-AD48-2A132E355504}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ProbeAttenuation_2</Property>
 	<Property Name="varPersistentID:{9667DDEF-5E34-4280-B87B-A9F2839775B2}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FM-ModulationFrequency</Property>
 	<Property Name="varPersistentID:{97298527-EB1A-4936-8480-B82FD0660093}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_NumberOfChannels</Property>
+	<Property Name="varPersistentID:{97F836B6-4374-433F-954B-A1D2D12D2D4E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalOffset_1</Property>
 	<Property Name="varPersistentID:{986B3BEF-ACBD-4013-A4B5-F3B8B2ABCF6F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ApertureTimeUnit</Property>
 	<Property Name="varPersistentID:{98CE79B8-8284-43F9-AB18-94C17189807E}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_TriggerSource</Property>
+	<Property Name="varPersistentID:{98F9DB22-E828-4DFB-96E4-57FD4A2262C5}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_VoltageLevel_2</Property>
+	<Property Name="varPersistentID:{991C4A17-2502-492B-BC65-4626C124CFED}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerModifier</Property>
+	<Property Name="varPersistentID:{9A25B426-C189-4EFF-811F-5E5489DF740D}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ErrorMessage</Property>
 	<Property Name="varPersistentID:{9AC3A61C-15FD-46AA-B294-66BA4556445A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FM-ModulationWaveform</Property>
 	<Property Name="varPersistentID:{9AF1E7D3-0F7E-47BD-A303-67715A5101B3}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OutputEnable_0</Property>
+	<Property Name="varPersistentID:{9B81DA5E-73E7-4167-AB65-F1271AC2390F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_TriggerSlope</Property>
+	<Property Name="varPersistentID:{9BCFEA5F-5A64-4B42-BBAF-D105FE67B5B9}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_ErrorCode</Property>
+	<Property Name="varPersistentID:{9C01163A-B24D-4A1F-B51A-E14D54960A6A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_Waveform</Property>
 	<Property Name="varPersistentID:{9C3FE353-F5E4-4146-8BC9-A0C3F37900F5}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_SampleClockOutputEnabled</Property>
 	<Property Name="varPersistentID:{9C7C4C71-B625-4422-ABD6-12E2EC536615}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ActualRange</Property>
+	<Property Name="varPersistentID:{9D7473E4-91F8-4EF5-B58D-15715411D631}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_SampleCount</Property>
 	<Property Name="varPersistentID:{9F463E5A-1E65-4353-8110-3E8B9FBF7123}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_AutoZeroMode</Property>
 	<Property Name="varPersistentID:{A0C5488F-2951-4B67-A1B8-002A341BFAC6}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_SelftestResultMessage</Property>
+	<Property Name="varPersistentID:{A0F713AA-46AD-4FE3-B568-6785C59427B6}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_InState_1</Property>
 	<Property Name="varPersistentID:{A0FFF84D-391E-4190-9B42-E005CE5F5E9B}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_TriggerDelay</Property>
 	<Property Name="varPersistentID:{A1796190-2363-406D-939B-D1036D23EB49}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ResourceName</Property>
+	<Property Name="varPersistentID:{A20E612F-A971-4C6A-A09F-EC4154365CC0}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_ResourceName</Property>
+	<Property Name="varPersistentID:{A23FF93F-F90F-4BF0-85C3-541D1C306531}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{A2C6DE9B-E782-4809-89EE-2455F652F4D8}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_DriverRevision</Property>
+	<Property Name="varPersistentID:{A44B7748-6B9F-4A1A-94F2-98E6650FFD7D}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_DesiredOutputState_1</Property>
+	<Property Name="varPersistentID:{A4C42C93-5096-442E-86FD-01C2A95DF884}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_AcquisitionType</Property>
 	<Property Name="varPersistentID:{A4D3DFCC-C760-4408-8A3E-5C8B0ADBADD7}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_FrequencyVoltageRange</Property>
 	<Property Name="varPersistentID:{A5178C4E-B93B-4585-943C-319237C9D46A}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_DriverRevision</Property>
+	<Property Name="varPersistentID:{A5DBD271-9416-4EB2-B9A3-B1F94C979980}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_DriverRevision</Property>
 	<Property Name="varPersistentID:{A66A2648-AE94-47E5-9C72-CAFB485BD06D}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_ErrorMessage</Property>
 	<Property Name="varPersistentID:{A6A4857F-3023-44C5-A7F5-157420DD9AD3}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_StopTriggerSource_0</Property>
+	<Property Name="varPersistentID:{A71D8BAE-4059-418E-B2B7-C0817D7092F7}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_RuntLowThreshold</Property>
 	<Property Name="varPersistentID:{A83DA807-E50B-4D4F-8536-71CB3C275C36}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_Arb-Frequency_0</Property>
+	<Property Name="varPersistentID:{A94E8547-AB03-4F08-B37E-892216464391}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_HighReference</Property>
 	<Property Name="varPersistentID:{AAEBD6B6-5366-4B1B-9A4C-80F0B176D973}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{AB82702A-5F40-46F3-B796-442D89BE9CAF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_MaxCurrentLimit_0</Property>
 	<Property Name="varPersistentID:{AB993A1A-651E-4B50-A82B-388731793121}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ThermocoupleType</Property>
 	<Property Name="varPersistentID:{ABA2019B-AD90-42CA-9068-B67D26BCC189}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_InState_1</Property>
+	<Property Name="varPersistentID:{AC75BB65-EAF8-47C8-90B0-59BB1C1B11C8}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ProbeAttenuation_3</Property>
+	<Property Name="varPersistentID:{ACE4280E-F0BC-43B5-AD1F-96F26CCC5116}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_WidthPolarity</Property>
 	<Property Name="varPersistentID:{B01DF610-F7DB-491F-88D4-CE759A36174E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_AM-Source_0</Property>
 	<Property Name="varPersistentID:{B0308FA0-EA1B-40AE-BF69-9FF0850FAF4E}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_OutputMode</Property>
 	<Property Name="varPersistentID:{B0FA3091-56F0-4665-B762-DB317D2EC5D3}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_AM-ModulationDepth</Property>
@@ -192,45 +303,73 @@
 	<Property Name="varPersistentID:{B218EFF9-2261-459D-AACA-CA2D6A4708C3}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_SampleTrigger</Property>
 	<Property Name="varPersistentID:{B25BDF50-80AF-4100-9BD5-21D7A2304942}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ErrorMessage</Property>
 	<Property Name="varPersistentID:{B26D50AC-3C9B-4D40-9E09-0FA36D57C1D3}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ACMaxFrequency</Property>
+	<Property Name="varPersistentID:{B2E17EAC-6C5F-44FF-B07E-3C754E599E54}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_Resistance</Property>
 	<Property Name="varPersistentID:{B3BB45BA-572D-4A61-92A8-3BB27A438D03}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_CurrentLimit_2</Property>
 	<Property Name="varPersistentID:{B47D2D89-4C83-4343-934A-B009765A11EA}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ErrorCode</Property>
+	<Property Name="varPersistentID:{B8DAAE88-E08F-4D7A-843D-BEDC32CC2EF8}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OVPEnabled_2</Property>
 	<Property Name="varPersistentID:{B8EABC53-0379-4569-B5FD-59226F2916A3}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ErrorCode</Property>
+	<Property Name="varPersistentID:{B8F4BFBA-09A9-4A77-B715-1D4E2D374FBC}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ActualTimeIncrement</Property>
 	<Property Name="varPersistentID:{BAB659F2-733D-4FFA-AE21-4D3F32DAC18A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_Range</Property>
 	<Property Name="varPersistentID:{BAE3823F-BFD7-4CBA-9BAE-0BAC5F903D4D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Measure_V_0</Property>
+	<Property Name="varPersistentID:{BC62C345-DE75-44F0-B0E3-947F9E335567}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerType</Property>
+	<Property Name="varPersistentID:{BD7FB157-00F2-4A04-B751-996081E4F1C5}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_DesiredOutputState_2</Property>
 	<Property Name="varPersistentID:{C2236432-E1EE-471E-97C9-FCDE542CF293}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_SelftestResultCode</Property>
 	<Property Name="varPersistentID:{C35CBEDB-BAAF-41BD-ABB0-E048EFFD5094}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Behavior_2</Property>
+	<Property Name="varPersistentID:{C583C7B0-3D2E-4A51-83DF-586C5D1FE9C5}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_Alpha</Property>
+	<Property Name="varPersistentID:{C7B314D8-F6EC-466B-B8E3-DC62ECE3AC94}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_OutputEnable_2</Property>
 	<Property Name="varPersistentID:{C7E313EF-1525-4675-BD9C-BEF599F57870}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_StopTriggerSlope_0</Property>
+	<Property Name="varPersistentID:{C80F4179-4DBA-4BCE-9E48-86F4E397FD43}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ChannelEnabled_0</Property>
 	<Property Name="varPersistentID:{C8E00CF5-F27F-4035-8E3D-53C93878C88A}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_MeasCompleteDestination</Property>
 	<Property Name="varPersistentID:{C9645ECA-13AC-4564-A430-4FE992C2888F}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_ACMinFrequency</Property>
 	<Property Name="varPersistentID:{C9EAE44F-01DF-49C7-93FD-36A4B2603DB3}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_Resistance</Property>
+	<Property Name="varPersistentID:{CA13F1D1-BB1B-45F8-AC5C-3C422C62742A}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_CurrentLimit_2</Property>
 	<Property Name="varPersistentID:{CA4B36D1-F443-4964-AE14-7A0E6E008046}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_TriggerRate</Property>
+	<Property Name="varPersistentID:{CC571464-A875-45B0-9FD8-9040F932D9B0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MinRecordLength</Property>
 	<Property Name="varPersistentID:{CC6F4A28-D647-479B-BD97-CFBBAA10FB13}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_StartTriggerSource_0</Property>
+	<Property Name="varPersistentID:{CC789711-E1C4-484B-8869-1240DE70D3EB}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ActualSampleMode</Property>
 	<Property Name="varPersistentID:{CD407025-BF72-489F-9E55-CB313246C32C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_AbsoluteResolution</Property>
 	<Property Name="varPersistentID:{CD5EDE5E-487B-4999-9E9D-52776F1F99E3}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_TransducerType</Property>
 	<Property Name="varPersistentID:{CE7B814F-82D9-4506-895E-E2BA2A441C29}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OVPLimit_2</Property>
 	<Property Name="varPersistentID:{CF8EBCE9-77F7-4C08-B8DD-6A45193F5351}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_StopTriggerSlope_0</Property>
+	<Property Name="varPersistentID:{CFA23699-2206-4A37-9801-CEE216574BCA}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ActualRange</Property>
 	<Property Name="varPersistentID:{CFA450E5-FBED-4F00-981A-EB3A97206023}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_FM-Enabled_0</Property>
 	<Property Name="varPersistentID:{D041FB8C-DCA9-458B-AA69-569B06B63288}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_TriggerSource_0</Property>
+	<Property Name="varPersistentID:{D07B2938-D23C-4F3D-AEAD-93A7CAD27A30}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalCoupling_3</Property>
+	<Property Name="varPersistentID:{D144CE60-B33B-42F8-AC4B-D96515E4D845}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ThermocoupleType</Property>
 	<Property Name="varPersistentID:{D1B911BD-D065-445F-A615-53D9A9710565}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_MeasCompleteDestination</Property>
 	<Property Name="varPersistentID:{D27701A7-5D35-4A33-89C1-2FE8F0C66E76}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Range_1</Property>
+	<Property Name="varPersistentID:{D44AC66D-DD07-43DE-B756-C2F4C441BD6A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_WidthLowThreshold</Property>
 	<Property Name="varPersistentID:{D492106E-028A-4A1E-8245-8AF1E3735833}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_Range</Property>
 	<Property Name="varPersistentID:{D49F515D-749B-4590-BC04-C757274398D6}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ThermocoupleType</Property>
+	<Property Name="varPersistentID:{D4F5D53D-3570-42D0-AA1C-8C98F32EA327}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalRange_1</Property>
 	<Property Name="varPersistentID:{D52F5787-9D8F-48B0-810F-7A9B2ADFE7CE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_OVPLimit_0</Property>
 	<Property Name="varPersistentID:{D5DF9E89-E67D-4C6D-B444-F714A8C66C25}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_TriggerVoltageLevel_1</Property>
 	<Property Name="varPersistentID:{D62108DE-20E7-42B2-9CDC-6C6C9A012635}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_DesiredOutputState_0</Property>
 	<Property Name="varPersistentID:{D68C6463-4FC7-4D91-B76E-282CBD05F6C5}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_NumberOfChannels</Property>
 	<Property Name="varPersistentID:{D6F787C6-ABCD-469F-BF85-4EEC30BA1BC0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{D76B9457-E896-4C71-B2AB-B5704BD7223B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_DesiredOutputState_2</Property>
+	<Property Name="varPersistentID:{D7F7DB26-0B7B-4315-89E3-73CF4CFB4775}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_TriggerHoldoff</Property>
+	<Property Name="varPersistentID:{D835AFF0-7B66-4640-B683-A3F539B5D2D9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_InputImpedance_3</Property>
+	<Property Name="varPersistentID:{DA61CCED-3A04-46F9-A1D4-E04D436B2A84}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_NumberOfChannels</Property>
 	<Property Name="varPersistentID:{DA74D943-F13F-42EA-8FC5-5E1C614FCA25}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_SelftestResultMessage</Property>
 	<Property Name="varPersistentID:{DCCD4365-3D13-4351-8638-2BEB12417F5E}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ErrorMessage</Property>
+	<Property Name="varPersistentID:{DD5E7B60-2E7D-460F-9D6E-E3E413593667}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ResourceName</Property>
 	<Property Name="varPersistentID:{DDA9C266-6D34-40DD-A31B-A1103C752BFF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_SampleRate</Property>
+	<Property Name="varPersistentID:{DE87B029-16AA-4017-A450-32CA80E1B572}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_SampleInterval</Property>
+	<Property Name="varPersistentID:{DF6C5650-4993-4194-9131-954E03A8A9ED}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ChannelEnabled_3</Property>
+	<Property Name="varPersistentID:{DF72A351-604A-4D43-AC98-0F624461515C}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_WidthCondition</Property>
 	<Property Name="varPersistentID:{E0CDAC39-6177-400B-888F-F97F93B7C039}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_SampleInterval</Property>
 	<Property Name="varPersistentID:{E1691D16-DA5F-4935-B339-2BDC34F70935}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_MeasCompleteDestination</Property>
+	<Property Name="varPersistentID:{E18EF95A-4B7D-4137-A3D1-BA9FABFB0186}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_Reading</Property>
 	<Property Name="varPersistentID:{E223B4A0-7B8F-4EBC-953C-8099764E63E3}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_ACMinFrequency</Property>
 	<Property Name="varPersistentID:{E29CDF27-4FC4-43AD-AF03-2AC8763EC058}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_TriggerSlope</Property>
+	<Property Name="varPersistentID:{E3588C3E-CCEB-4500-B8F5-9C5C1BD4A752}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Behavior_1</Property>
 	<Property Name="varPersistentID:{E3867B53-E2EC-4406-BAC6-3C8BBB0A3D3A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_DCOffset_0</Property>
+	<Property Name="varPersistentID:{E3DFDA7E-9ECD-4E96-9E1C-2CBC3291F7B0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_NumberOfEnvelopes</Property>
 	<Property Name="varPersistentID:{E3E74612-E5C4-4322-8797-36D329EED947}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{E50584FC-9B0D-4EA4-9EE3-039201DB8D00}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_DesiredOutputState_1</Property>
+	<Property Name="varPersistentID:{E6A93E7B-CC41-4ACE-9401-9C96324694A0}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_MaxVoltageLevel_2</Property>
+	<Property Name="varPersistentID:{E70E8F61-677F-4F14-8CC7-79B538980313}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ContinousAcquisition</Property>
 	<Property Name="varPersistentID:{E7459DB9-6A31-4283-BF36-A5900379BD81}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_FirmwareRevision</Property>
 	<Property Name="varPersistentID:{E7571EB9-A8C5-496C-954E-AD598FE939A0}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_MaxVoltageLevel_0</Property>
 	<Property Name="varPersistentID:{E7E74BBB-98F2-4C65-A9EB-05D5FC1268D4}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_Measure_V_1</Property>
@@ -238,21 +377,42 @@
 	<Property Name="varPersistentID:{EA0A76D7-48B7-40CD-BC14-F8B8629A0076}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_TriggerDelay</Property>
 	<Property Name="varPersistentID:{EAB3B57C-1E52-4004-A06F-563628EA0C5E}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_FrequencyVoltageRange</Property>
 	<Property Name="varPersistentID:{EB330F02-958D-483D-B655-99869CF281A9}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_ErrorCode</Property>
+	<Property Name="varPersistentID:{EB949DF7-BACC-49EF-8008-176B46F33183}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_MeasurementFunction</Property>
+	<Property Name="varPersistentID:{ECFEF2FA-9BDA-415F-8AF3-FB54237F3A4F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalCoupling_1</Property>
 	<Property Name="varPersistentID:{EE68EBD9-1644-4F5A-ADAC-B35D47C52AFB}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_FM-PeakDeviation</Property>
 	<Property Name="varPersistentID:{EF37AB39-4813-4F42-8F54-ED56858AB931}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_PowerLineFrequency</Property>
 	<Property Name="varPersistentID:{F036EF22-F7C0-4DEF-A663-0BC219C5C6B4}" Type="Ref">/My Computer/SVTest.lvlib/myFgen-HP33220A/myFgen-HP33220A_Amplitude_0</Property>
+	<Property Name="varPersistentID:{F0BF0083-5BAB-4994-A28D-56D66DFA277C}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_ACMaxFrequency</Property>
 	<Property Name="varPersistentID:{F2306D58-1C15-4DDC-876B-6CA36C80CA0A}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_ResumeTriggerSlope_0</Property>
+	<Property Name="varPersistentID:{F27154A7-5DE5-4296-8C01-9C46A77B7AF1}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_MaxCurrentLimit_1</Property>
 	<Property Name="varPersistentID:{F2D4CE7D-BAC4-44E1-A234-149449D9DBCE}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ApertureTimeUnit</Property>
 	<Property Name="varPersistentID:{F6023C99-0B2E-47B5-9484-765B2E5441EC}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_SampleClockOutputEnabled</Property>
+	<Property Name="varPersistentID:{F634A1B4-773A-4491-8358-D5E84127AE3B}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_GlitchWidth</Property>
 	<Property Name="varPersistentID:{F65AE3CD-C29E-4E0D-977A-19E3A126BF29}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_SampleTrigger</Property>
+	<Property Name="varPersistentID:{F749D37D-1F3F-476A-A3F2-BD06434848BF}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalOffset_0</Property>
+	<Property Name="varPersistentID:{F795BDC7-6609-4112-93D1-5B7A58C0E1EA}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_Range_2</Property>
 	<Property Name="varPersistentID:{F79A4E0F-B56C-4409-97C9-B9966E4C142D}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myFgen/myFgen_TriggerSource_0</Property>
+	<Property Name="varPersistentID:{F7C22C5D-BBCE-40BA-87CF-C37BC6B325B8}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-Fluke45/myDMM-Fluke45_AutoZeroMode</Property>
+	<Property Name="varPersistentID:{F8C39317-9779-4544-90E6-F978DBF01883}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MaxInputFrequency_1</Property>
+	<Property Name="varPersistentID:{F8C4CF10-E603-4087-9479-0CA1D37F2EDE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_VerticalOffset_2</Property>
+	<Property Name="varPersistentID:{F9FDDE26-2759-4913-BEC7-6113DDF3EE30}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_MidReference</Property>
 	<Property Name="varPersistentID:{FA6ED10C-B69F-4B05-B1DA-87C2C4945E9F}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_FrequencyVoltageRange</Property>
 	<Property Name="varPersistentID:{FB04C7AB-9481-4C08-8124-40E7A703B268}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2000/myDMM-KE2000_ActualRange</Property>
+	<Property Name="varPersistentID:{FB34DC0C-E2FF-4A50-8D58-E53BDF959E99}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myScope/myScope_ActualSampleRate</Property>
+	<Property Name="varPersistentID:{FB67F7BD-53DF-4821-B9D1-4A53D93606CC}" Type="Ref">/My Computer/SVTest.lvlib/myDCPwr-QL355TP/myDCPwr-QL355TP_TriggerSource_2</Property>
 	<Property Name="varPersistentID:{FD3EE0CF-F2CE-4824-8943-CE9FA0DB5FEE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_Alpha</Property>
 	<Property Name="varPersistentID:{FDAEC511-10FE-4992-9AE1-A8F582B85877}" Type="Ref">/My Computer/SVTest.lvlib/myDMM-KE2700/myDMM-KE2700_Alpha</Property>
 	<Property Name="varPersistentID:{FF32A0AB-37EE-4BA4-88AA-AEF201F86DAE}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDMM/myDMM_TriggerCount</Property>
 	<Property Name="varPersistentID:{FF4220B4-5444-4D39-9ED4-DC8C4E9EBCD1}" Type="Ref">/My Computer/CSPP_DeviceBaseSV.lvlib/myDCPwr/myDCPwr_SelftestResultCode</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="IOScan.Faults" Type="Str"></Property>
+		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
+		<Property Name="IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
+		<Property Name="IOScan.Period" Type="UInt">10000</Property>
+		<Property Name="IOScan.PowerupMode" Type="UInt">0</Property>
+		<Property Name="IOScan.Priority" Type="UInt">9</Property>
+		<Property Name="IOScan.ReportModeConflict" Type="Bool">true</Property>
+		<Property Name="IOScan.StartEngineOnDeploy" Type="Bool">false</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
