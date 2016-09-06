@@ -41,3 +41,6 @@
 [submodule "Packages/BNT/BNT_DSCXYGraph"]
 	path = Packages/BNT/BNT_DSCXYGraph
 	url = https://github.com/HB-BNT/BNT_DSCXYGraph.git
+[submodule "Packages/CSPP_Seq"]
+	path = Packages/CSPP_Seq
+	url = https://github.com/HB-GSI/CSPP_Seq.git
