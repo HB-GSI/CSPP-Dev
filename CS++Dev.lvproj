@@ -201,6 +201,10 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 				<Item Name="BNT_DAQmx.lvlib" Type="Library" URL="../Packages/BNT/BNT_DAQmx/BNT_DAQmx.lvlib"/>
 				<Item Name="BNT_DSCXYGraph.lvlib" Type="Library" URL="../Packages/BNT/BNT_DSCXYGraph/BNT_DSCXYGraph.lvlib"/>
 			</Item>
+			<Item Name="CSPP_Seq" Type="Folder">
+				<Item Name="CS++Sequencer.lvlib" Type="Library" URL="../Packages/CSPP_Seq/CS++Sequencer/CS++Sequencer.lvlib"/>
+				<Item Name="CS++SeqEditor.lvlib" Type="Library" URL="../Packages/CSPP_Seq/CS++SeqEditor/CS++SeqEditor.lvlib"/>
+			</Item>
 		</Item>
 		<Item Name="User" Type="Folder">
 			<Item Name="CS++HBContent.vi" Type="VI" URL="../CS++HBContent.vi"/>
