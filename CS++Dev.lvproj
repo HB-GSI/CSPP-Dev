@@ -204,6 +204,9 @@ Die sprachspezifischen Genehmigungen und Beschränkungen unter der Lizenz sind d
 			<Item Name="CSPP_Seq" Type="Folder">
 				<Item Name="CS++Sequencer.lvlib" Type="Library" URL="../Packages/CSPP_Seq/CS++Sequencer/CS++Sequencer.lvlib"/>
 				<Item Name="CS++SeqEditor.lvlib" Type="Library" URL="../Packages/CSPP_Seq/CS++SeqEditor/CS++SeqEditor.lvlib"/>
+				<Item Name="CS++Sequencer.ini" Type="Document" URL="../Packages/CSPP_Seq/CS++Sequencer.ini"/>
+				<Item Name="CS++SeqEditorContent.vi" Type="VI" URL="../Packages/CSPP_Seq/CS++Sequencer/CS++SeqEditorContent.vi"/>
+				<Item Name="CS++SequencerContent.vi" Type="VI" URL="../Packages/CSPP_Seq/CS++Sequencer/CS++SequencerContent.vi"/>
 			</Item>
 		</Item>
 		<Item Name="User" Type="Folder">
