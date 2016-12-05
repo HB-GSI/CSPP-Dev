@@ -44,3 +44,6 @@
 [submodule "Packages/CSPP_Seq"]
 	path = Packages/CSPP_Seq
 	url = https://github.com/HB-GSI/CSPP_Seq.git
+[submodule "Packages/BNT/BNT_TDMS"]
+	path = Packages/BNT/BNT_TDMS
+	url = https://github.com/HB-BNT/BNT_TDMS.git
